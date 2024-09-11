@@ -94,7 +94,10 @@ export default function Map({ tolerance, onMapReady }: Props) {
           opacity = 0.2;
           weight = 2;
         }
-        if (item.durationByPublicTransport! > item.durationByCar * 2) {
+        if (
+          item.durationByPublicTransport! >
+          tolerance + item.durationByCar * 2
+        ) {
           color = "black";
           opacity = 0.1;
           weight = 2;
