@@ -124,7 +124,9 @@ export default function Map({ tolerance, onMapReady }: Props) {
               fillColor: color,
               fillOpacity: 0.5,
               weight: 5,
-            }).addTo(layersRef.current![layerKey]);
+            })
+              .bindPopup(item.name + " - " + item.plz)
+              .addTo(layersRef.current![layerKey]);
           }
         }
       });
