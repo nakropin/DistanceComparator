@@ -1,0 +1,1782 @@
+[
+  {
+    "name": "Zscheilitz",
+    "plz": "01623",
+    "durationByPublicTransport": 171
+  },
+  {
+    "name": "Wolfspfütz",
+    "plz": "08485",
+    "durationByPublicTransport": 150
+  },
+  {
+    "name": "Zschannewitz",
+    "plz": "04769",
+    "durationByPublicTransport": 130
+  },
+  {
+    "name": "Yorckgebiet",
+    "plz": "09127",
+    "durationByPublicTransport": 307
+  },
+  {
+    "name": "Zschorna",
+    "plz": "01561",
+    "durationByPublicTransport": 460
+  },
+  {
+    "name": "Zwethau",
+    "plz": "04886",
+    "durationByPublicTransport": 134
+  },
+  {
+    "name": "Neukirchen",
+    "plz": "09221",
+    "durationByPublicTransport": 173
+  },
+  {
+    "name": "Wohlbach",
+    "plz": "08626",
+    "durationByPublicTransport": 228
+  },
+  {
+    "name": "Lößnitz",
+    "plz": "08294",
+    "durationByPublicTransport": 188
+  },
+  {
+    "name": "Neuwallwitz",
+    "plz": "09326",
+    "durationByPublicTransport": 131
+  },
+  {
+    "name": "Zschorlau",
+    "plz": "08321",
+    "durationByPublicTransport": 190
+  },
+  {
+    "name": "Aue",
+    "plz": "08280",
+    "durationByPublicTransport": 163
+  },
+  {
+    "name": "Thronitz",
+    "plz": "04420",
+    "durationByPublicTransport": 67
+  },
+  {
+    "name": "Radeberger Vorstadt",
+    "plz": "01099",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Wernsdorf",
+    "plz": "08371",
+    "durationByPublicTransport": 416
+  },
+  {
+    "name": "Threna",
+    "plz": "04683",
+    "durationByPublicTransport": 60
+  },
+  {
+    "name": "Reichenbacher Vorstadt",
+    "plz": "08529",
+    "durationByPublicTransport": 168
+  },
+  {
+    "name": "Russen",
+    "plz": "02748",
+    "durationByPublicTransport": 483
+  },
+  {
+    "name": "Zentrum",
+    "plz": "09111",
+    "durationByPublicTransport": 136
+  },
+  {
+    "name": "Wohla",
+    "plz": "02708",
+    "durationByPublicTransport": 444
+  },
+  {
+    "name": "Zerna",
+    "plz": "01920",
+    "durationByPublicTransport": 490
+  },
+  {
+    "name": "Zeititz",
+    "plz": "04828",
+    "durationByPublicTransport": 95
+  },
+  {
+    "name": "Zinnwald-Georgenfeld",
+    "plz": "01773",
+    "durationByPublicTransport": 274
+  },
+  {
+    "name": "Kaßberg",
+    "plz": "09112",
+    "durationByPublicTransport": 154
+  },
+  {
+    "name": "Sebnitz",
+    "plz": "01855",
+    "durationByPublicTransport": 276
+  },
+  {
+    "name": "Wischstauden",
+    "plz": "04539",
+    "durationByPublicTransport": 83
+  },
+  {
+    "name": "Sachsenburg",
+    "plz": "09669",
+    "durationByPublicTransport": 401
+  },
+  {
+    "name": "Trebsen/Mulde",
+    "plz": "04687",
+    "durationByPublicTransport": 89
+  },
+  {
+    "name": "Zschockau",
+    "plz": "04703",
+    "durationByPublicTransport": 104
+  },
+  {
+    "name": "Zobes",
+    "plz": "08541",
+    "durationByPublicTransport": 170
+  },
+  {
+    "name": "Zöllmen",
+    "plz": "01156",
+    "durationByPublicTransport": 166
+  },
+  {
+    "name": "Mölkau",
+    "plz": "04316",
+    "durationByPublicTransport": 69
+  },
+  {
+    "name": "Wilschwitz",
+    "plz": "01594",
+    "durationByPublicTransport": 113
+  },
+  {
+    "name": "Teicha",
+    "plz": "02956",
+    "durationByPublicTransport": 405
+  },
+  {
+    "name": "Lindenau",
+    "plz": "04177",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Zettlarsgrün",
+    "plz": "08606",
+    "durationByPublicTransport": 247
+  },
+  {
+    "name": "Wetzelsgrün",
+    "plz": "08233",
+    "durationByPublicTransport": 189
+  },
+  {
+    "name": "Zschöppichen",
+    "plz": "09648",
+    "durationByPublicTransport": 144
+  },
+  {
+    "name": "Wüstenhain",
+    "plz": "04654",
+    "durationByPublicTransport": 154
+  },
+  {
+    "name": "Wickershain",
+    "plz": "04643",
+    "durationByPublicTransport": 83
+  },
+  {
+    "name": "Südstadt",
+    "plz": "02826",
+    "durationByPublicTransport": 219
+  },
+  {
+    "name": "Thiergarten",
+    "plz": "08523",
+    "durationByPublicTransport": 155
+  },
+  {
+    "name": "Wildenau/Brückenberg",
+    "plz": "08340",
+    "durationByPublicTransport": 196
+  },
+  {
+    "name": "Zschoppelshain",
+    "plz": "09306",
+    "durationByPublicTransport": 120
+  },
+  {
+    "name": "Zinnberg",
+    "plz": "09322",
+    "durationByPublicTransport": 114
+  },
+  {
+    "name": "Wohlau",
+    "plz": "04874",
+    "durationByPublicTransport": 113
+  },
+  {
+    "name": "Schönfeld",
+    "plz": "01762",
+    "durationByPublicTransport": 329
+  },
+  {
+    "name": "Sellerhausen-Stünz",
+    "plz": "04318",
+    "durationByPublicTransport": 62
+  },
+  {
+    "name": "Plattenthal",
+    "plz": "09456",
+    "durationByPublicTransport": 540
+  },
+  {
+    "name": "Zöblitz",
+    "plz": "09496",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Tellerhäuser",
+    "plz": "08359",
+    "durationByPublicTransport": 254
+  },
+  {
+    "name": "Zwotental",
+    "plz": "08261",
+    "durationByPublicTransport": 211
+  },
+  {
+    "name": "Wallroda",
+    "plz": "01477",
+    "durationByPublicTransport": 157
+  },
+  {
+    "name": "Zscharnitz",
+    "plz": "02633",
+    "durationByPublicTransport": 497
+  },
+  {
+    "name": "Weinsdorf mit Liebenhain",
+    "plz": "09661",
+    "durationByPublicTransport": 145
+  },
+  {
+    "name": "Zoblitz",
+    "plz": "02894",
+    "durationByPublicTransport": 213
+  },
+  {
+    "name": "Wendishain",
+    "plz": "04746",
+    "durationByPublicTransport": 144
+  },
+  {
+    "name": "Wildschütz",
+    "plz": "04862",
+    "durationByPublicTransport": 78
+  },
+  {
+    "name": "Wachau",
+    "plz": "04416",
+    "durationByPublicTransport": 61
+  },
+  {
+    "name": "Steinbach",
+    "plz": "01468",
+    "durationByPublicTransport": 480
+  },
+  {
+    "name": "Pöhlau",
+    "plz": "08066",
+    "durationByPublicTransport": 130
+  },
+  {
+    "name": "Schnarrtanne",
+    "plz": "08209",
+    "durationByPublicTransport": 189
+  },
+  {
+    "name": "Zschochau",
+    "plz": "04749",
+    "durationByPublicTransport": 123
+  },
+  {
+    "name": "Ottendorf",
+    "plz": "09244",
+    "durationByPublicTransport": 165
+  },
+  {
+    "name": "Schellenberg",
+    "plz": "09573",
+    "durationByPublicTransport": 198
+  },
+  {
+    "name": "Westvorstadt",
+    "plz": "02625",
+    "durationByPublicTransport": 195
+  },
+  {
+    "name": "Uhyst a. Taucher",
+    "plz": "01906",
+    "durationByPublicTransport": 461
+  },
+  {
+    "name": "Pieschen-Nord/Leipziger Vorstadt",
+    "plz": "01097",
+    "durationByPublicTransport": 130
+  },
+  {
+    "name": "Zöschau",
+    "plz": "04758",
+    "durationByPublicTransport": 147
+  },
+  {
+    "name": "Zunschwitz",
+    "plz": "04720",
+    "durationByPublicTransport": 144
+  },
+  {
+    "name": "Wellaune",
+    "plz": "04849",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Zscheckwitz",
+    "plz": "01731",
+    "durationByPublicTransport": 218
+  },
+  {
+    "name": "Schönberg",
+    "plz": "08648",
+    "durationByPublicTransport": 206
+  },
+  {
+    "name": "Sohl",
+    "plz": "08645",
+    "durationByPublicTransport": 194
+  },
+  {
+    "name": "Oelsen",
+    "plz": "01816",
+    "durationByPublicTransport": 478
+  },
+  {
+    "name": "Trebishain",
+    "plz": "04651",
+    "durationByPublicTransport": 79
+  },
+  {
+    "name": "Kromlau",
+    "plz": "02953",
+    "durationByPublicTransport": 451
+  },
+  {
+    "name": "Wendischfähre",
+    "plz": "01814",
+    "durationByPublicTransport": 496
+  },
+  {
+    "name": "Wildbach",
+    "plz": "08301",
+    "durationByPublicTransport": 170
+  },
+  {
+    "name": "Zwochau",
+    "plz": "04509",
+    "durationByPublicTransport": 97
+  },
+  {
+    "name": "Weißenborn/Erzgeb.",
+    "plz": "09600",
+    "durationByPublicTransport": 489
+  },
+  {
+    "name": "Wasserberg West",
+    "plz": "09599",
+    "durationByPublicTransport": 241
+  },
+  {
+    "name": "Zschettgau",
+    "plz": "04838",
+    "durationByPublicTransport": 88
+  },
+  {
+    "name": "Zwiesel",
+    "plz": "01819",
+    "durationByPublicTransport": 472
+  },
+  {
+    "name": "Zschoppach",
+    "plz": "04668",
+    "durationByPublicTransport": 116
+  },
+  {
+    "name": "Wilmsdorf",
+    "plz": "01728",
+    "durationByPublicTransport": 202
+  },
+  {
+    "name": "Schlottwitz",
+    "plz": "01768",
+    "durationByPublicTransport": 236
+  },
+  {
+    "name": "Obercrinitz",
+    "plz": "08147",
+    "durationByPublicTransport": 197
+  },
+  {
+    "name": "Zetta",
+    "plz": "01665",
+    "durationByPublicTransport": 159
+  },
+  {
+    "name": "Ziegelei",
+    "plz": "01471",
+    "durationByPublicTransport": 468
+  },
+  {
+    "name": "Trieb",
+    "plz": "08543",
+    "durationByPublicTransport": 139
+  },
+  {
+    "name": "Zschillichau",
+    "plz": "02694",
+    "durationByPublicTransport": 311
+  },
+  {
+    "name": "Zimpel",
+    "plz": "02943",
+    "durationByPublicTransport": 534
+  },
+  {
+    "name": "Zschorna",
+    "plz": "02627",
+    "durationByPublicTransport": 208
+  },
+  {
+    "name": "Weßnig",
+    "plz": "04889",
+    "durationByPublicTransport": 103
+  },
+  {
+    "name": "Wurbis",
+    "plz": "02681",
+    "durationByPublicTransport": 196
+  },
+  {
+    "name": "Ruppendorf",
+    "plz": "01774",
+    "durationByPublicTransport": 539
+  },
+  {
+    "name": "Waschleithe",
+    "plz": "08344",
+    "durationByPublicTransport": 186
+  },
+  {
+    "name": "Zwenke",
+    "plz": "02736",
+    "durationByPublicTransport": 454
+  },
+  {
+    "name": "Ruppertsgrün",
+    "plz": "08427",
+    "durationByPublicTransport": 131
+  },
+  {
+    "name": "Wölkau",
+    "plz": "01877",
+    "durationByPublicTransport": 256
+  },
+  {
+    "name": "Techritz",
+    "plz": "02692",
+    "durationByPublicTransport": 460
+  },
+  {
+    "name": "Weischlitz",
+    "plz": "08538",
+    "durationByPublicTransport": 166
+  },
+  {
+    "name": "Zschornau",
+    "plz": "01917",
+    "durationByPublicTransport": 265
+  },
+  {
+    "name": "Oberpfannenstiel",
+    "plz": "08315",
+    "durationByPublicTransport": 209
+  },
+  {
+    "name": "Zeißholz",
+    "plz": "02994",
+    "durationByPublicTransport": 518
+  },
+  {
+    "name": "Wüstenbrand",
+    "plz": "09337",
+    "durationByPublicTransport": 233
+  },
+  {
+    "name": "Bernsdorf",
+    "plz": "09120",
+    "durationByPublicTransport": 367
+  },
+  {
+    "name": "Ulberndorf",
+    "plz": "01744",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Strahwalde",
+    "plz": "02747",
+    "durationByPublicTransport": 480
+  },
+  {
+    "name": "Waltersdorf",
+    "plz": "01825",
+    "durationByPublicTransport": 267
+  },
+  {
+    "name": "Rochsburg",
+    "plz": "09328",
+    "durationByPublicTransport": 158
+  },
+  {
+    "name": "Wulm",
+    "plz": "08132",
+    "durationByPublicTransport": 149
+  },
+  {
+    "name": "Rugiswalde",
+    "plz": "01844",
+    "durationByPublicTransport": 255
+  },
+  {
+    "name": "Zittau",
+    "plz": "02763",
+    "durationByPublicTransport": 477
+  },
+  {
+    "name": "Polenz",
+    "plz": "04821",
+    "durationByPublicTransport": 81
+  },
+  {
+    "name": "Stollberg/Erzgeb.",
+    "plz": "09366",
+    "durationByPublicTransport": 213
+  },
+  {
+    "name": "Steinbach",
+    "plz": "09629",
+    "durationByPublicTransport": 211
+  },
+  {
+    "name": "Wiesa",
+    "plz": "02923",
+    "durationByPublicTransport": 478
+  },
+  {
+    "name": "Rosenthal",
+    "plz": "01824",
+    "durationByPublicTransport": 292
+  },
+  {
+    "name": "Zschortau",
+    "plz": "04519",
+    "durationByPublicTransport": 118
+  },
+  {
+    "name": "Wilsdruff",
+    "plz": "01723",
+    "durationByPublicTransport": 469
+  },
+  {
+    "name": "Zwochau",
+    "plz": "04808",
+    "durationByPublicTransport": 113
+  },
+  {
+    "name": "Zauckerode",
+    "plz": "01705",
+    "durationByPublicTransport": 505
+  },
+  {
+    "name": "Zuschendorf",
+    "plz": "01796",
+    "durationByPublicTransport": 235
+  },
+  {
+    "name": "Rudelswalde",
+    "plz": "08451",
+    "durationByPublicTransport": 142
+  },
+  {
+    "name": "Tolkewitz",
+    "plz": "01277",
+    "durationByPublicTransport": 186
+  },
+  {
+    "name": "Wolfsgrün",
+    "plz": "08309",
+    "durationByPublicTransport": 210
+  },
+  {
+    "name": "Schönfeld",
+    "plz": "09526",
+    "durationByPublicTransport": 333
+  },
+  {
+    "name": "Zerre",
+    "plz": "02979",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Schedewitz/Geinitzsiedlung",
+    "plz": "08056",
+    "durationByPublicTransport": 116
+  },
+  {
+    "name": "Zschirla",
+    "plz": "04680",
+    "durationByPublicTransport": 98
+  },
+  {
+    "name": "Wunschwitz",
+    "plz": "01683",
+    "durationByPublicTransport": 208
+  },
+  {
+    "name": "Großdeuben",
+    "plz": "04564",
+    "durationByPublicTransport": 61
+  },
+  {
+    "name": "Burghausen-Rückmarsdorf",
+    "plz": "04178",
+    "durationByPublicTransport": 28
+  },
+  {
+    "name": "Schwarzer Kater",
+    "plz": "04774",
+    "durationByPublicTransport": 110
+  },
+  {
+    "name": "Zedtlitz",
+    "plz": "04552",
+    "durationByPublicTransport": 98
+  },
+  {
+    "name": "Glösa-Draisdorf",
+    "plz": "09114",
+    "durationByPublicTransport": 184
+  },
+  {
+    "name": "Wingendorf",
+    "plz": "09569",
+    "durationByPublicTransport": 476
+  },
+  {
+    "name": "Zaschendorf",
+    "plz": "01328",
+    "durationByPublicTransport": 464
+  },
+  {
+    "name": "Zweenfurth",
+    "plz": "04451",
+    "durationByPublicTransport": 50
+  },
+  {
+    "name": "Grünhainichen",
+    "plz": "09579",
+    "durationByPublicTransport": 542
+  },
+  {
+    "name": "Weesenstein",
+    "plz": "01809",
+    "durationByPublicTransport": 233
+  },
+  {
+    "name": "Marienthal West",
+    "plz": "08060",
+    "durationByPublicTransport": 126
+  },
+  {
+    "name": "St. Michaelis",
+    "plz": "09618",
+    "durationByPublicTransport": 505
+  },
+  {
+    "name": "Brandis",
+    "plz": "04824",
+    "durationByPublicTransport": 65
+  },
+  {
+    "name": "Wolkenburg-Kaufungen",
+    "plz": "09212",
+    "durationByPublicTransport": 190
+  },
+  {
+    "name": "Niederwiesa",
+    "plz": "09577",
+    "durationByPublicTransport": 350
+  },
+  {
+    "name": "Trages",
+    "plz": "04567",
+    "durationByPublicTransport": 100
+  },
+  {
+    "name": "Wohlhausen",
+    "plz": "08258",
+    "durationByPublicTransport": 202
+  },
+  {
+    "name": "Uhsmannsdorf",
+    "plz": "02929",
+    "durationByPublicTransport": 465
+  },
+  {
+    "name": "Kleinröhrsdorf",
+    "plz": "01900",
+    "durationByPublicTransport": 170
+  },
+  {
+    "name": "Neukieritzsch",
+    "plz": "04575",
+    "durationByPublicTransport": 60
+  },
+  {
+    "name": "Stetzsch",
+    "plz": "01157",
+    "durationByPublicTransport": 164
+  },
+  {
+    "name": "Wittichenau",
+    "plz": "02997",
+    "durationByPublicTransport": 505
+  },
+  {
+    "name": "Ziegelei",
+    "plz": "08491",
+    "durationByPublicTransport": 130
+  },
+  {
+    "name": "Sörnewitz",
+    "plz": "01640",
+    "durationByPublicTransport": 144
+  },
+  {
+    "name": "Zeißig",
+    "plz": "02977",
+    "durationByPublicTransport": 509
+  },
+  {
+    "name": "Brünlos",
+    "plz": "09395",
+    "durationByPublicTransport": 496
+  },
+  {
+    "name": "Unterheinsdorf",
+    "plz": "08468",
+    "durationByPublicTransport": 148
+  },
+  {
+    "name": "Weißer Hirsch",
+    "plz": "01324",
+    "durationByPublicTransport": 164
+  },
+  {
+    "name": "Seeligstadt",
+    "plz": "01909",
+    "durationByPublicTransport": 229
+  },
+  {
+    "name": "Zeisholz",
+    "plz": "01936",
+    "durationByPublicTransport": 275
+  },
+  {
+    "name": "Schweizerthal",
+    "plz": "09217",
+    "durationByPublicTransport": 135
+  },
+  {
+    "name": "Rechenberg-Bienenmühle",
+    "plz": "09623",
+    "durationByPublicTransport": 294
+  },
+  {
+    "name": "Wolfersgrün",
+    "plz": "08107",
+    "durationByPublicTransport": 194
+  },
+  {
+    "name": "Meinersdorf",
+    "plz": "09235",
+    "durationByPublicTransport": 467
+  },
+  {
+    "name": "Rottmannsdorf",
+    "plz": "08064",
+    "durationByPublicTransport": 132
+  },
+  {
+    "name": "Wiederoda",
+    "plz": "04779",
+    "durationByPublicTransport": 130
+  },
+  {
+    "name": "Zescha",
+    "plz": "02699",
+    "durationByPublicTransport": 443
+  },
+  {
+    "name": "Rauschenbach",
+    "plz": "09544",
+    "durationByPublicTransport": 312
+  },
+  {
+    "name": "Riesa",
+    "plz": "01591",
+    "durationByPublicTransport": 106
+  },
+  {
+    "name": "Röllingshain",
+    "plz": "09236",
+    "durationByPublicTransport": 159
+  },
+  {
+    "name": "Marienbrunn",
+    "plz": "04277",
+    "durationByPublicTransport": 49
+  },
+  {
+    "name": "Tuttendorf",
+    "plz": "09633",
+    "durationByPublicTransport": 471
+  },
+  {
+    "name": "Plauen",
+    "plz": "01187",
+    "durationByPublicTransport": 173
+  },
+  {
+    "name": "Scholas",
+    "plz": "07985",
+    "durationByPublicTransport": 174
+  },
+  {
+    "name": "Zschepa",
+    "plz": "01619",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Taucha",
+    "plz": "04425",
+    "durationByPublicTransport": 77
+  },
+  {
+    "name": "Sehma",
+    "plz": "09465",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Weißenborn",
+    "plz": "08058",
+    "durationByPublicTransport": 354
+  },
+  {
+    "name": "Walthersdorf",
+    "plz": "09474",
+    "durationByPublicTransport": 564
+  },
+  {
+    "name": "Wilkau-Haßlau",
+    "plz": "08112",
+    "durationByPublicTransport": 127
+  },
+  {
+    "name": "Weigsdorf-Köblitz",
+    "plz": "02733",
+    "durationByPublicTransport": 448
+  },
+  {
+    "name": "Zeschnig",
+    "plz": "01848",
+    "durationByPublicTransport": 275
+  },
+  {
+    "name": "Wörblitz",
+    "plz": "04880",
+    "durationByPublicTransport": 112
+  },
+  {
+    "name": "Neukirchen/Pleiße",
+    "plz": "08459",
+    "durationByPublicTransport": 155
+  },
+  {
+    "name": "Weigersdorf",
+    "plz": "02906",
+    "durationByPublicTransport": 339
+  },
+  {
+    "name": "Uttewalde",
+    "plz": "01847",
+    "durationByPublicTransport": 503
+  },
+  {
+    "name": "Unterpirk",
+    "plz": "08539",
+    "durationByPublicTransport": 172
+  },
+  {
+    "name": "Tettau",
+    "plz": "08393",
+    "durationByPublicTransport": 169
+  },
+  {
+    "name": "Zodel",
+    "plz": "02829",
+    "durationByPublicTransport": 515
+  },
+  {
+    "name": "Weinhübel",
+    "plz": "02827",
+    "durationByPublicTransport": 484
+  },
+  {
+    "name": "Oberlochmühle",
+    "plz": "09548",
+    "durationByPublicTransport": 328
+  },
+  {
+    "name": "Deutzen",
+    "plz": "04574",
+    "durationByPublicTransport": 109
+  },
+  {
+    "name": "Zschaiten",
+    "plz": "01612",
+    "durationByPublicTransport": 104
+  },
+  {
+    "name": "Wittgendorf",
+    "plz": "02788",
+    "durationByPublicTransport": 385
+  },
+  {
+    "name": "Wilischthal",
+    "plz": "09439",
+    "durationByPublicTransport": 504
+  },
+  {
+    "name": "Wünschendorf",
+    "plz": "01833",
+    "durationByPublicTransport": 241
+  },
+  {
+    "name": "Seidnitz",
+    "plz": "01237",
+    "durationByPublicTransport": 171
+  },
+  {
+    "name": "Lößnig",
+    "plz": "04279",
+    "durationByPublicTransport": 48
+  },
+  {
+    "name": "Wolteritz",
+    "plz": "04435",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Wölfnitz",
+    "plz": "01159",
+    "durationByPublicTransport": 178
+  },
+  {
+    "name": "Zeichen",
+    "plz": "01829",
+    "durationByPublicTransport": 197
+  },
+  {
+    "name": "Zethau",
+    "plz": "09619",
+    "durationByPublicTransport": 561
+  },
+  {
+    "name": "Zwönitz",
+    "plz": "08297",
+    "durationByPublicTransport": 200
+  },
+  {
+    "name": "Schlettau",
+    "plz": "09487",
+    "durationByPublicTransport": 539
+  },
+  {
+    "name": "Werda",
+    "plz": "08223",
+    "durationByPublicTransport": 189
+  },
+  {
+    "name": "Wiltzsch",
+    "plz": "09430",
+    "durationByPublicTransport": 542
+  },
+  {
+    "name": "Wolkenstein",
+    "plz": "09429",
+    "durationByPublicTransport": 551
+  },
+  {
+    "name": "Störmthal",
+    "plz": "04463",
+    "durationByPublicTransport": 85
+  },
+  {
+    "name": "Weißkollm",
+    "plz": "02999",
+    "durationByPublicTransport": 352
+  },
+  {
+    "name": "Wickersdorf",
+    "plz": "08396",
+    "durationByPublicTransport": 184
+  },
+  {
+    "name": "Ebersbach/Sa.",
+    "plz": "02730",
+    "durationByPublicTransport": 230
+  },
+  {
+    "name": "Thanhof",
+    "plz": "08115",
+    "durationByPublicTransport": 135
+  },
+  {
+    "name": "Wallengrün",
+    "plz": "07952",
+    "durationByPublicTransport": 482
+  },
+  {
+    "name": "Walddorf",
+    "plz": "02739",
+    "durationByPublicTransport": 218
+  },
+  {
+    "name": "Klaffenbach",
+    "plz": "09123",
+    "durationByPublicTransport": 371
+  },
+  {
+    "name": "Wiederau",
+    "plz": "04523",
+    "durationByPublicTransport": 61
+  },
+  {
+    "name": "Schwarzbach",
+    "plz": "09481",
+    "durationByPublicTransport": 524
+  },
+  {
+    "name": "Paunsdorf",
+    "plz": "04319",
+    "durationByPublicTransport": 51
+  },
+  {
+    "name": "Kleinhartmannsdorf",
+    "plz": "09575",
+    "durationByPublicTransport": 548
+  },
+  {
+    "name": "Reichenhain",
+    "plz": "09125",
+    "durationByPublicTransport": 369
+  },
+  {
+    "name": "Ursprung",
+    "plz": "09385",
+    "durationByPublicTransport": 164
+  },
+  {
+    "name": "Rötha",
+    "plz": "04571",
+    "durationByPublicTransport": 76
+  },
+  {
+    "name": "Landwüst",
+    "plz": "08265",
+    "durationByPublicTransport": 236
+  },
+  {
+    "name": "Eutritzsch",
+    "plz": "04129",
+    "durationByPublicTransport": 42
+  },
+  {
+    "name": "Flöha",
+    "plz": "09557",
+    "durationByPublicTransport": 456
+  },
+  {
+    "name": "Wachau",
+    "plz": "01454",
+    "durationByPublicTransport": 241
+  },
+  {
+    "name": "Wilschdorf",
+    "plz": "01109",
+    "durationByPublicTransport": 158
+  },
+  {
+    "name": "Zschauitz",
+    "plz": "01558",
+    "durationByPublicTransport": 170
+  },
+  {
+    "name": "Spitzkunnersdorf",
+    "plz": "02794",
+    "durationByPublicTransport": 431
+  },
+  {
+    "name": "Unterreußen",
+    "plz": "01616",
+    "durationByPublicTransport": 134
+  },
+  {
+    "name": "Wernsdorf",
+    "plz": "09509",
+    "durationByPublicTransport": 540
+  },
+  {
+    "name": "Tharandt",
+    "plz": "01737",
+    "durationByPublicTransport": 207
+  },
+  {
+    "name": "Wülknitz",
+    "plz": "01609",
+    "durationByPublicTransport": 97
+  },
+  {
+    "name": "Neusalza-Spremberg",
+    "plz": "02742",
+    "durationByPublicTransport": 203
+  },
+  {
+    "name": "Pulsnitz",
+    "plz": "01896",
+    "durationByPublicTransport": 186
+  },
+  {
+    "name": "Vielau",
+    "plz": "08141",
+    "durationByPublicTransport": 157
+  },
+  {
+    "name": "Wilsdruffer Vorstadt",
+    "plz": "01067",
+    "durationByPublicTransport": 143
+  },
+  {
+    "name": "Syrau",
+    "plz": "08548",
+    "durationByPublicTransport": 194
+  },
+  {
+    "name": "Müglitz",
+    "plz": "01778",
+    "durationByPublicTransport": 264
+  },
+  {
+    "name": "Hilbersdorf",
+    "plz": "09113",
+    "durationByPublicTransport": 161
+  },
+  {
+    "name": "Sonnenberg",
+    "plz": "09126",
+    "durationByPublicTransport": 196
+  },
+  {
+    "name": "Krumhermersdorf",
+    "plz": "09405",
+    "durationByPublicTransport": 468
+  },
+  {
+    "name": "Rauschenthal",
+    "plz": "04736",
+    "durationByPublicTransport": 134
+  },
+  {
+    "name": "Posthausen",
+    "plz": "04827",
+    "durationByPublicTransport": 65
+  },
+  {
+    "name": "Kaitz",
+    "plz": "01189",
+    "durationByPublicTransport": 159
+  },
+  {
+    "name": "Zweinig",
+    "plz": "04741",
+    "durationByPublicTransport": 146
+  },
+  {
+    "name": "Weinböhla",
+    "plz": "01689",
+    "durationByPublicTransport": 130
+  },
+  {
+    "name": "Gohlis-Nord",
+    "plz": "04157",
+    "durationByPublicTransport": 44
+  },
+  {
+    "name": "Gohlis-Süd",
+    "plz": "04155",
+    "durationByPublicTransport": 37
+  },
+  {
+    "name": "Weixdorf",
+    "plz": "01108",
+    "durationByPublicTransport": 162
+  },
+  {
+    "name": "Gorbitz-Süd",
+    "plz": "01169",
+    "durationByPublicTransport": 196
+  },
+  {
+    "name": "Zschertnitz/Strehlen-Südwest",
+    "plz": "01217",
+    "durationByPublicTransport": 175
+  },
+  {
+    "name": "Tannenbergsthal",
+    "plz": "08262",
+    "durationByPublicTransport": 197
+  },
+  {
+    "name": "Zinna",
+    "plz": "04860",
+    "durationByPublicTransport": 106
+  },
+  {
+    "name": "Trebendorf",
+    "plz": "02959",
+    "durationByPublicTransport": 418
+  },
+  {
+    "name": "Zwenkau",
+    "plz": "04442",
+    "durationByPublicTransport": 56
+  },
+  {
+    "name": "Großolbersdorf",
+    "plz": "09432",
+    "durationByPublicTransport": 540
+  },
+  {
+    "name": "Wolfsberg",
+    "plz": "09518",
+    "durationByPublicTransport": 522
+  },
+  {
+    "name": "Siebenlehn",
+    "plz": "09603",
+    "durationByPublicTransport": 454
+  },
+  {
+    "name": "Großschönau",
+    "plz": "02779",
+    "durationByPublicTransport": 481
+  },
+  {
+    "name": "Niedersedlitz",
+    "plz": "01257",
+    "durationByPublicTransport": 178
+  },
+  {
+    "name": "Knautkleeberg-Knauthain",
+    "plz": "04249",
+    "durationByPublicTransport": 54
+  },
+  {
+    "name": "Steinbach",
+    "plz": "09477",
+    "durationByPublicTransport": 548
+  },
+  {
+    "name": "Reichenbrand",
+    "plz": "09117",
+    "durationByPublicTransport": 338
+  },
+  {
+    "name": "Gruna/Strehlen-Nordost",
+    "plz": "01219",
+    "durationByPublicTransport": 166
+  },
+  {
+    "name": "Zschopau",
+    "plz": "09434",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Wildenfels",
+    "plz": "08134",
+    "durationByPublicTransport": 157
+  },
+  {
+    "name": "Grünau-Ost",
+    "plz": "04209",
+    "durationByPublicTransport": 35
+  },
+  {
+    "name": "Schönau",
+    "plz": "04205",
+    "durationByPublicTransport": 40
+  },
+  {
+    "name": "Lausen-Grünau",
+    "plz": "04207",
+    "durationByPublicTransport": 45
+  },
+  {
+    "name": "Ottendorf-Okrilla",
+    "plz": "01458",
+    "durationByPublicTransport": 166
+  },
+  {
+    "name": "Wildenhain",
+    "plz": "04565",
+    "durationByPublicTransport": 131
+  },
+  {
+    "name": "Werdeck",
+    "plz": "02957",
+    "durationByPublicTransport": 502
+  },
+  {
+    "name": "Oberwiesenthal, Kurort",
+    "plz": "09484",
+    "durationByPublicTransport": null
+  },
+  {
+    "name": "Zschocken",
+    "plz": "08118",
+    "durationByPublicTransport": 163
+  },
+  {
+    "name": "Zwoschwitz",
+    "plz": "08525",
+    "durationByPublicTransport": 160
+  },
+  {
+    "name": "Schönborn",
+    "plz": "01465",
+    "durationByPublicTransport": 144
+  },
+  {
+    "name": "Rödlitz",
+    "plz": "09350",
+    "durationByPublicTransport": 391
+  },
+  {
+    "name": "Heiterblick",
+    "plz": "04329",
+    "durationByPublicTransport": 58
+  },
+  {
+    "name": "Helbersdorf",
+    "plz": "09119",
+    "durationByPublicTransport": 326
+  },
+  {
+    "name": "Wachwitz",
+    "plz": "01326",
+    "durationByPublicTransport": 176
+  },
+  {
+    "name": "Seyde",
+    "plz": "01776",
+    "durationByPublicTransport": 361
+  },
+  {
+    "name": "Thum",
+    "plz": "09419",
+    "durationByPublicTransport": 472
+  },
+  {
+    "name": "Sohra",
+    "plz": "09627",
+    "durationByPublicTransport": 219
+  },
+  {
+    "name": "Voigtsgrün",
+    "plz": "08144",
+    "durationByPublicTransport": 182
+  },
+  {
+    "name": "Hirschfeld",
+    "plz": "09634",
+    "durationByPublicTransport": 209
+  },
+  {
+    "name": "Liebertwolkwitz",
+    "plz": "04288",
+    "durationByPublicTransport": 71
+  },
+  {
+    "name": "Stützengrün",
+    "plz": "08328",
+    "durationByPublicTransport": 241
+  },
+  {
+    "name": "Morgenleite",
+    "plz": "09122",
+    "durationByPublicTransport": 363
+  },
+  {
+    "name": "Seifersdorf",
+    "plz": "09387",
+    "durationByPublicTransport": 189
+  },
+  {
+    "name": "Torno",
+    "plz": "02991",
+    "durationByPublicTransport": 570
+  },
+  {
+    "name": "Striesen-West",
+    "plz": "01307",
+    "durationByPublicTransport": 179
+  },
+  {
+    "name": "Steinsdorf",
+    "plz": "08547",
+    "durationByPublicTransport": 182
+  },
+  {
+    "name": "Übigau",
+    "plz": "01139",
+    "durationByPublicTransport": 162
+  },
+  {
+    "name": "Wünschendorf",
+    "plz": "09514",
+    "durationByPublicTransport": 558
+  },
+  {
+    "name": "Stelzendorf",
+    "plz": "09116",
+    "durationByPublicTransport": 310
+  },
+  {
+    "name": "Spechtritz",
+    "plz": "01734",
+    "durationByPublicTransport": 444
+  },
+  {
+    "name": "Torna",
+    "plz": "01239",
+    "durationByPublicTransport": 176
+  },
+  {
+    "name": "Weidensdorf",
+    "plz": "08373",
+    "durationByPublicTransport": 173
+  },
+  {
+    "name": "Schönau-Berzdorf a. d. Eigen",
+    "plz": "02899",
+    "durationByPublicTransport": 405
+  },
+  {
+    "name": "Zschieren",
+    "plz": "01259",
+    "durationByPublicTransport": 213
+  },
+  {
+    "name": "Schleußig",
+    "plz": "04229",
+    "durationByPublicTransport": 28
+  },
+  {
+    "name": "Mühlleithen",
+    "plz": "08248",
+    "durationByPublicTransport": 227
+  },
+  {
+    "name": "Ober-Neundorf",
+    "plz": "02828",
+    "durationByPublicTransport": 248
+  },
+  {
+    "name": "Werdau",
+    "plz": "08412",
+    "durationByPublicTransport": 125
+  },
+  {
+    "name": "Taura",
+    "plz": "09249",
+    "durationByPublicTransport": 158
+  },
+  {
+    "name": "St. Egidien",
+    "plz": "09356",
+    "durationByPublicTransport": 358
+  },
+  {
+    "name": "Mühltroff",
+    "plz": "07919",
+    "durationByPublicTransport": 482
+  },
+  {
+    "name": "Raschau",
+    "plz": "08352",
+    "durationByPublicTransport": 522
+  },
+  {
+    "name": "Trünzig",
+    "plz": "08428",
+    "durationByPublicTransport": 174
+  },
+  {
+    "name": "Lauter",
+    "plz": "08312",
+    "durationByPublicTransport": 209
+  },
+  {
+    "name": "Leutewitz",
+    "plz": "01587",
+    "durationByPublicTransport": 103
+  },
+  {
+    "name": "Neulindenau",
+    "plz": "04179",
+    "durationByPublicTransport": 21
+  },
+  {
+    "name": "Weigmannsdorf",
+    "plz": "09638",
+    "durationByPublicTransport": 453
+  },
+  {
+    "name": "Schneeberg",
+    "plz": "08289",
+    "durationByPublicTransport": 177
+  },
+  {
+    "name": "Wiederitzsch",
+    "plz": "04158",
+    "durationByPublicTransport": 83
+  },
+  {
+    "name": "Oybin, Kurort",
+    "plz": "02797",
+    "durationByPublicTransport": 547
+  },
+  {
+    "name": "Meißen",
+    "plz": "01662",
+    "durationByPublicTransport": 488
+  },
+  {
+    "name": "Unterlosa",
+    "plz": "08527",
+    "durationByPublicTransport": 467
+  },
+  {
+    "name": "Probstheida",
+    "plz": "04289",
+    "durationByPublicTransport": 59
+  },
+  {
+    "name": "Trachenberge",
+    "plz": "01127",
+    "durationByPublicTransport": 177
+  },
+  {
+    "name": "Seehausen",
+    "plz": "04356",
+    "durationByPublicTransport": 63
+  },
+  {
+    "name": "Mockau-Süd",
+    "plz": "04357",
+    "durationByPublicTransport": 39
+  },
+  {
+    "name": "Möckern",
+    "plz": "04159",
+    "durationByPublicTransport": 65
+  },
+  {
+    "name": "Obermylau",
+    "plz": "08499",
+    "durationByPublicTransport": 144
+  },
+  {
+    "name": "Rathendorf",
+    "plz": "04657",
+    "durationByPublicTransport": 98
+  },
+  {
+    "name": "Neugersdorf",
+    "plz": "02727",
+    "durationByPublicTransport": 225
+  },
+  {
+    "name": "Schönbach",
+    "plz": "08496",
+    "durationByPublicTransport": 119
+  },
+  {
+    "name": "Wiesa",
+    "plz": "09488",
+    "durationByPublicTransport": 552
+  },
+  {
+    "name": "Neuplanitz",
+    "plz": "08062",
+    "durationByPublicTransport": 386
+  },
+  {
+    "name": "Volkmarsdorf",
+    "plz": "04315",
+    "durationByPublicTransport": 42
+  },
+  {
+    "name": "Oberoderwitz",
+    "plz": "02791",
+    "durationByPublicTransport": 230
+  },
+  {
+    "name": "Trieb/Vogtl.",
+    "plz": "08239",
+    "durationByPublicTransport": 190
+  },
+  {
+    "name": "Südvorstadt-West",
+    "plz": "01069",
+    "durationByPublicTransport": 137
+  },
+  {
+    "name": "Thekla",
+    "plz": "04349",
+    "durationByPublicTransport": 49
+  },
+  {
+    "name": "Reudnitz-Thonberg",
+    "plz": "04317",
+    "durationByPublicTransport": 42
+  },
+  {
+    "name": "Weifa",
+    "plz": "01904",
+    "durationByPublicTransport": 199
+  },
+  {
+    "name": "Rützengrün",
+    "plz": "08228",
+    "durationByPublicTransport": 194
+  },
+  {
+    "name": "Röhrsdorf",
+    "plz": "09247",
+    "durationByPublicTransport": 373
+  },
+  {
+    "name": "Wildenau",
+    "plz": "08237",
+    "durationByPublicTransport": 224
+  },
+  {
+    "name": "Schönefeld-Ost",
+    "plz": "04347",
+    "durationByPublicTransport": 56
+  },
+  {
+    "name": "Tannenberg",
+    "plz": "09468",
+    "durationByPublicTransport": 538
+  },
+  {
+    "name": "Wehrsdorf",
+    "plz": "02689",
+    "durationByPublicTransport": 207
+  },
+  {
+    "name": "Stötteritz",
+    "plz": "04299",
+    "durationByPublicTransport": 37
+  },
+  {
+    "name": "Südvorstadt",
+    "plz": "04275",
+    "durationByPublicTransport": 29
+  },
+  {
+    "name": "Witzschdorf",
+    "plz": "09437",
+    "durationByPublicTransport": 529
+  },
+  {
+    "name": "Waltersdorf",
+    "plz": "02799",
+    "durationByPublicTransport": 498
+  },
+  {
+    "name": "Wittgensdorf",
+    "plz": "09228",
+    "durationByPublicTransport": 165
+  },
+  {
+    "name": "Zentrum-Nordwest",
+    "plz": "04105",
+    "durationByPublicTransport": 32
+  },
+  {
+    "name": "Zentrum-Südost",
+    "plz": "04103",
+    "durationByPublicTransport": 43
+  },
+  {
+    "name": "Zentrum-Süd",
+    "plz": "04107",
+    "durationByPublicTransport": 33
+  },
+  {
+    "name": "Zentrum-West",
+    "plz": "04109",
+    "durationByPublicTransport": 18
+  },
+  {
+    "name": "Zwota",
+    "plz": "08267",
+    "durationByPublicTransport": 207
+  }
+]

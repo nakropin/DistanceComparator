@@ -1,0 +1,2442 @@
+[
+  {
+    "plz": "01623",
+    "name": "Zscheilitz",
+    "lat": 51.2021198,
+    "lng": 13.2783877,
+    "durationByCar": 70
+  },
+  {
+    "plz": "08485",
+    "name": "Wolfspfütz",
+    "lat": 50.5693132,
+    "lng": 12.3661079,
+    "durationByCar": 89
+  },
+  {
+    "plz": "04769",
+    "name": "Zschannewitz",
+    "lat": 51.236385,
+    "lng": 13.0452199,
+    "durationByCar": 54
+  },
+  {
+    "plz": "09127",
+    "name": "Yorckgebiet",
+    "lat": 50.8183343,
+    "lng": 12.9655202,
+    "durationByCar": 77
+  },
+  {
+    "plz": "01561",
+    "name": "Zschorna",
+    "lat": 51.2834635,
+    "lng": 13.6765407,
+    "durationByCar": 96
+  },
+  {
+    "plz": "04886",
+    "name": "Zwethau",
+    "lat": 51.5764765,
+    "lng": 13.0853524,
+    "durationByCar": 91
+  },
+  {
+    "plz": "09221",
+    "name": "Neukirchen",
+    "lat": 50.7793722,
+    "lng": 12.8669818,
+    "durationByCar": 69
+  },
+  {
+    "plz": "08626",
+    "name": "Wohlbach",
+    "lat": 50.3453106,
+    "lng": 12.2426911,
+    "durationByCar": 113
+  },
+  {
+    "plz": "08294",
+    "name": "Lößnitz",
+    "lat": 50.6155565,
+    "lng": 12.7521138,
+    "durationByCar": 84
+  },
+  {
+    "plz": "09326",
+    "name": "Neuwallwitz",
+    "lat": 51.0778024,
+    "lng": 12.9057027,
+    "durationByCar": 68
+  },
+  {
+    "plz": "08321",
+    "name": "Zschorlau",
+    "lat": 50.5628061,
+    "lng": 12.641115,
+    "durationByCar": 95
+  },
+  {
+    "plz": "08280",
+    "name": "Aue",
+    "lat": 50.5943135,
+    "lng": 12.7061804,
+    "durationByCar": 83
+  },
+  {
+    "plz": "04420",
+    "name": "Thronitz",
+    "lat": 51.2878749,
+    "lng": 12.2127083,
+    "durationByCar": 28
+  },
+  {
+    "plz": "01099",
+    "name": "Radeberger Vorstadt",
+    "lat": 51.0871884,
+    "lng": 13.8028038,
+    "durationByCar": 91
+  },
+  {
+    "plz": "08371",
+    "name": "Wernsdorf",
+    "lat": 50.8065808,
+    "lng": 12.5499009,
+    "durationByCar": 79
+  },
+  {
+    "plz": "04683",
+    "name": "Threna",
+    "lat": 51.2787522,
+    "lng": 12.591811,
+    "durationByCar": 35
+  },
+  {
+    "plz": "08529",
+    "name": "Reichenbacher Vorstadt",
+    "lat": 50.4943032,
+    "lng": 12.1729563,
+    "durationByCar": 96
+  },
+  {
+    "plz": "02748",
+    "name": "Russen",
+    "lat": 51.04724,
+    "lng": 14.8270791,
+    "durationByCar": 141
+  },
+  {
+    "plz": "09111",
+    "name": "Zentrum",
+    "lat": 50.8365233,
+    "lng": 12.9239317,
+    "durationByCar": 72
+  },
+  {
+    "plz": "02708",
+    "name": "Wohla",
+    "lat": 51.0773984,
+    "lng": 14.6555802,
+    "durationByCar": 127
+  },
+  {
+    "plz": "01920",
+    "name": "Zerna",
+    "lat": 51.2406659,
+    "lng": 14.0328293,
+    "durationByCar": 104
+  },
+  {
+    "plz": "04828",
+    "name": "Zeititz",
+    "lat": 51.36439499999999,
+    "lng": 12.6883075,
+    "durationByCar": 49
+  },
+  {
+    "plz": "01773",
+    "name": "Zinnwald-Georgenfeld",
+    "lat": 50.7766262,
+    "lng": 13.7364624,
+    "durationByCar": 116
+  },
+  {
+    "plz": "09112",
+    "name": "Kaßberg",
+    "lat": 50.8330573,
+    "lng": 12.9077033,
+    "durationByCar": 67
+  },
+  {
+    "plz": "01855",
+    "name": "Sebnitz",
+    "lat": 50.9730657,
+    "lng": 14.2730156,
+    "durationByCar": 126
+  },
+  {
+    "plz": "04539",
+    "name": "Wischstauden",
+    "lat": 51.153357,
+    "lng": 12.2833315,
+    "durationByCar": 42
+  },
+  {
+    "plz": "09669",
+    "name": "Sachsenburg",
+    "lat": 50.91810400000001,
+    "lng": 13.0685643,
+    "durationByCar": 73
+  },
+  {
+    "plz": "04687",
+    "name": "Trebsen/Mulde",
+    "lat": 51.2878672,
+    "lng": 12.7582113,
+    "durationByCar": 41
+  },
+  {
+    "plz": "04703",
+    "name": "Zschockau",
+    "lat": 51.15646899999999,
+    "lng": 12.9270969,
+    "durationByCar": 55
+  },
+  {
+    "plz": "08541",
+    "name": "Zobes",
+    "lat": 50.5035535,
+    "lng": 12.2239868,
+    "durationByCar": 94
+  },
+  {
+    "plz": "01156",
+    "name": "Zöllmen",
+    "lat": 51.085544,
+    "lng": 13.6276849,
+    "durationByCar": 80
+  },
+  {
+    "plz": "04316",
+    "name": "Mölkau",
+    "lat": 51.32453959999999,
+    "lng": 12.4533516,
+    "durationByCar": 28
+  },
+  {
+    "plz": "01594",
+    "name": "Wilschwitz",
+    "lat": 51.2606788,
+    "lng": 13.2323241,
+    "durationByCar": 71
+  },
+  {
+    "plz": "02956",
+    "name": "Teicha",
+    "lat": 51.39640929999999,
+    "lng": 14.7859055,
+    "durationByCar": 142
+  },
+  {
+    "plz": "04177",
+    "name": "Lindenau",
+    "lat": 51.3413425,
+    "lng": 12.3354318,
+    "durationByCar": 0
+  },
+  {
+    "plz": "08606",
+    "name": "Zettlarsgrün",
+    "lat": 50.3625638,
+    "lng": 12.0797301,
+    "durationByCar": 107
+  },
+  {
+    "plz": "08233",
+    "name": "Wetzelsgrün",
+    "lat": 50.5371205,
+    "lng": 12.313432,
+    "durationByCar": 93
+  },
+  {
+    "plz": "09648",
+    "name": "Zschöppichen",
+    "lat": 50.970958,
+    "lng": 12.9761119,
+    "durationByCar": 74
+  },
+  {
+    "plz": "04654",
+    "name": "Wüstenhain",
+    "lat": 51.0576395,
+    "lng": 12.5768999,
+    "durationByCar": 50
+  },
+  {
+    "plz": "04643",
+    "name": "Wickershain",
+    "lat": 51.0550708,
+    "lng": 12.6859531,
+    "durationByCar": 48
+  },
+  {
+    "plz": "02826",
+    "name": "Südstadt",
+    "lat": 51.14819749999999,
+    "lng": 14.975409,
+    "durationByCar": 132
+  },
+  {
+    "plz": "08523",
+    "name": "Thiergarten",
+    "lat": 50.4979145,
+    "lng": 12.1139095,
+    "durationByCar": 105
+  },
+  {
+    "plz": "08340",
+    "name": "Wildenau/Brückenberg",
+    "lat": 50.5293301,
+    "lng": 12.7701222,
+    "durationByCar": 99
+  },
+  {
+    "plz": "09306",
+    "name": "Zschoppelshain",
+    "lat": 51.0447384,
+    "lng": 12.7905483,
+    "durationByCar": 59
+  },
+  {
+    "plz": "09322",
+    "name": "Zinnberg",
+    "lat": 50.938449,
+    "lng": 12.6975126,
+    "durationByCar": 52
+  },
+  {
+    "plz": "04874",
+    "name": "Wohlau",
+    "lat": 51.482398,
+    "lng": 13.1255774,
+    "durationByCar": 87
+  },
+  {
+    "plz": "01762",
+    "name": "Schönfeld",
+    "lat": 50.8302784,
+    "lng": 13.5570383,
+    "durationByCar": 105
+  },
+  {
+    "plz": "04318",
+    "name": "Sellerhausen-Stünz",
+    "lat": 51.336667,
+    "lng": 12.4287949,
+    "durationByCar": 24
+  },
+  {
+    "plz": "09456",
+    "name": "Plattenthal",
+    "lat": 50.58149530000001,
+    "lng": 13.0552336,
+    "durationByCar": 112
+  },
+  {
+    "plz": "09496",
+    "name": "Zöblitz",
+    "lat": 50.60886439999999,
+    "lng": 13.1846783,
+    "durationByCar": 112
+  },
+  {
+    "plz": "08359",
+    "name": "Tellerhäuser",
+    "lat": 50.4662659,
+    "lng": 12.7698509,
+    "durationByCar": 115
+  },
+  {
+    "plz": "08261",
+    "name": "Zwotental",
+    "lat": 50.388063,
+    "lng": 12.3328862,
+    "durationByCar": 115
+  },
+  {
+    "plz": "01477",
+    "name": "Wallroda",
+    "lat": 51.0946097,
+    "lng": 13.9891512,
+    "durationByCar": 96
+  },
+  {
+    "plz": "02633",
+    "name": "Zscharnitz",
+    "lat": 51.17798390000001,
+    "lng": 14.3204467,
+    "durationByCar": 104
+  },
+  {
+    "plz": "09661",
+    "name": "Weinsdorf mit Liebenhain",
+    "lat": 51.0070443,
+    "lng": 13.125568,
+    "durationByCar": 72
+  },
+  {
+    "plz": "02894",
+    "name": "Zoblitz",
+    "lat": 51.140597,
+    "lng": 14.7985276,
+    "durationByCar": 122
+  },
+  {
+    "plz": "04746",
+    "name": "Wendishain",
+    "lat": 51.0963493,
+    "lng": 12.9725726,
+    "durationByCar": 67
+  },
+  {
+    "plz": "04862",
+    "name": "Wildschütz",
+    "lat": 51.5077396,
+    "lng": 12.8169302,
+    "durationByCar": 62
+  },
+  {
+    "plz": "04416",
+    "name": "Wachau",
+    "lat": 51.2700347,
+    "lng": 12.3804126,
+    "durationByCar": 20
+  },
+  {
+    "plz": "01468",
+    "name": "Steinbach",
+    "lat": 51.16768399999999,
+    "lng": 13.6637681,
+    "durationByCar": 91
+  },
+  {
+    "plz": "08066",
+    "name": "Pöhlau",
+    "lat": 50.7321344,
+    "lng": 12.5063011,
+    "durationByCar": 84
+  },
+  {
+    "plz": "08209",
+    "name": "Schnarrtanne",
+    "lat": 50.4823022,
+    "lng": 12.4322236,
+    "durationByCar": 106
+  },
+  {
+    "plz": "04749",
+    "name": "Zschochau",
+    "lat": 51.2065428,
+    "lng": 13.146946,
+    "durationByCar": 58
+  },
+  {
+    "plz": "09244",
+    "name": "Ottendorf",
+    "lat": 50.9140569,
+    "lng": 12.9473728,
+    "durationByCar": 70
+  },
+  {
+    "plz": "09573",
+    "name": "Schellenberg",
+    "lat": 50.8081717,
+    "lng": 13.104331,
+    "durationByCar": 88
+  },
+  {
+    "plz": "02625",
+    "name": "Westvorstadt",
+    "lat": 51.1815867,
+    "lng": 14.4230008,
+    "durationByCar": 106
+  },
+  {
+    "plz": "01906",
+    "name": "Uhyst a. Taucher",
+    "lat": 51.1757343,
+    "lng": 14.1795979,
+    "durationByCar": 98
+  },
+  {
+    "plz": "01097",
+    "name": "Pieschen-Nord/Leipziger Vorstadt",
+    "lat": 51.0659081,
+    "lng": 13.7361525,
+    "durationByCar": 83
+  },
+  {
+    "plz": "04758",
+    "name": "Zöschau",
+    "lat": 51.3491511,
+    "lng": 13.1111395,
+    "durationByCar": 78
+  },
+  {
+    "plz": "04720",
+    "name": "Zunschwitz",
+    "lat": 51.1343172,
+    "lng": 13.1272418,
+    "durationByCar": 57
+  },
+  {
+    "plz": "04849",
+    "name": "Wellaune",
+    "lat": 51.6034528,
+    "lng": 12.6503593,
+    "durationByCar": 71
+  },
+  {
+    "plz": "01731",
+    "name": "Zscheckwitz",
+    "lat": 50.94428689999999,
+    "lng": 13.7586934,
+    "durationByCar": 91
+  },
+  {
+    "plz": "08648",
+    "name": "Schönberg",
+    "lat": 50.221312,
+    "lng": 12.3079795,
+    "durationByCar": 133
+  },
+  {
+    "plz": "08645",
+    "name": "Sohl",
+    "lat": 50.2821802,
+    "lng": 12.232541,
+    "durationByCar": 121
+  },
+  {
+    "plz": "01816",
+    "name": "Oelsen",
+    "lat": 50.8484584,
+    "lng": 13.9407149,
+    "durationByCar": 96
+  },
+  {
+    "plz": "04651",
+    "name": "Trebishain",
+    "lat": 51.1354419,
+    "lng": 12.6417913,
+    "durationByCar": 52
+  },
+  {
+    "plz": "02953",
+    "name": "Kromlau",
+    "lat": 51.533076,
+    "lng": 14.6623392,
+    "durationByCar": 159
+  },
+  {
+    "plz": "01814",
+    "name": "Wendischfähre",
+    "lat": 50.8882817,
+    "lng": 14.1998701,
+    "durationByCar": 127
+  },
+  {
+    "plz": "08301",
+    "name": "Wildbach",
+    "lat": 50.6050031,
+    "lng": 12.6711487,
+    "durationByCar": 84
+  },
+  {
+    "plz": "04509",
+    "name": "Zwochau",
+    "lat": 51.5233472,
+    "lng": 12.3029551,
+    "durationByCar": 41
+  },
+  {
+    "plz": "09600",
+    "name": "Weißenborn/Erzgeb.",
+    "lat": 50.8970724,
+    "lng": 13.2538388,
+    "durationByCar": 85
+  },
+  {
+    "plz": "09599",
+    "name": "Wasserberg West",
+    "lat": 50.90938629999999,
+    "lng": 13.3291918,
+    "durationByCar": 85
+  },
+  {
+    "plz": "04838",
+    "name": "Zschettgau",
+    "lat": 51.4869004,
+    "lng": 12.6411982,
+    "durationByCar": 63
+  },
+  {
+    "plz": "01819",
+    "name": "Zwiesel",
+    "lat": 50.8744768,
+    "lng": 13.9492958,
+    "durationByCar": 95
+  },
+  {
+    "plz": "04668",
+    "name": "Zschoppach",
+    "lat": 51.21877420000001,
+    "lng": 12.7537203,
+    "durationByCar": 48
+  },
+  {
+    "plz": "01728",
+    "name": "Wilmsdorf",
+    "lat": 50.9902277,
+    "lng": 13.7244064,
+    "durationByCar": 83
+  },
+  {
+    "plz": "01768",
+    "name": "Schlottwitz",
+    "lat": 50.85093089999999,
+    "lng": 13.7803191,
+    "durationByCar": 103
+  },
+  {
+    "plz": "08147",
+    "name": "Obercrinitz",
+    "lat": 50.56228280000001,
+    "lng": 12.5185439,
+    "durationByCar": 95
+  },
+  {
+    "plz": "01665",
+    "name": "Zetta",
+    "lat": 51.0954089,
+    "lng": 13.4641847,
+    "durationByCar": 76
+  },
+  {
+    "plz": "01471",
+    "name": "Ziegelei",
+    "lat": 51.2011969,
+    "lng": 13.7403313,
+    "durationByCar": 80
+  },
+  {
+    "plz": "08543",
+    "name": "Trieb",
+    "lat": 50.5579773,
+    "lng": 12.1718081,
+    "durationByCar": 98
+  },
+  {
+    "plz": "02694",
+    "name": "Zschillichau",
+    "lat": 51.2663909,
+    "lng": 14.5133415,
+    "durationByCar": 116
+  },
+  {
+    "plz": "02943",
+    "name": "Zimpel",
+    "lat": 51.4269314,
+    "lng": 14.5988026,
+    "durationByCar": 143
+  },
+  {
+    "plz": "02627",
+    "name": "Zschorna",
+    "lat": 51.1485841,
+    "lng": 14.5695538,
+    "durationByCar": 118
+  },
+  {
+    "plz": "04889",
+    "name": "Weßnig",
+    "lat": 51.4565018,
+    "lng": 12.9272771,
+    "durationByCar": 68
+  },
+  {
+    "plz": "02681",
+    "name": "Wurbis",
+    "lat": 51.0972443,
+    "lng": 14.3935792,
+    "durationByCar": 118
+  },
+  {
+    "plz": "01774",
+    "name": "Ruppendorf",
+    "lat": 50.87291039999999,
+    "lng": 13.526344,
+    "durationByCar": 99
+  },
+  {
+    "plz": "08344",
+    "name": "Waschleithe",
+    "lat": 50.5680349,
+    "lng": 12.7978949,
+    "durationByCar": 93
+  },
+  {
+    "plz": "02736",
+    "name": "Zwenke",
+    "lat": 51.0565822,
+    "lng": 14.5050339,
+    "durationByCar": 131
+  },
+  {
+    "plz": "08427",
+    "name": "Ruppertsgrün",
+    "lat": 50.7007725,
+    "lng": 12.3576756,
+    "durationByCar": 92
+  },
+  {
+    "plz": "01877",
+    "name": "Wölkau",
+    "lat": 51.1344289,
+    "lng": 14.2020056,
+    "durationByCar": 107
+  },
+  {
+    "plz": "02692",
+    "name": "Techritz",
+    "lat": 51.1222369,
+    "lng": 14.4406271,
+    "durationByCar": 117
+  },
+  {
+    "plz": "08538",
+    "name": "Weischlitz",
+    "lat": 50.4474159,
+    "lng": 12.0580615,
+    "durationByCar": 93
+  },
+  {
+    "plz": "01917",
+    "name": "Zschornau",
+    "lat": 51.2841235,
+    "lng": 14.1133767,
+    "durationByCar": 112
+  },
+  {
+    "plz": "08315",
+    "name": "Oberpfannenstiel",
+    "lat": 50.5766714,
+    "lng": 12.7703191,
+    "durationByCar": 89
+  },
+  {
+    "plz": "02994",
+    "name": "Zeißholz",
+    "lat": 51.373395,
+    "lng": 14.0679133,
+    "durationByCar": 120
+  },
+  {
+    "plz": "09337",
+    "name": "Wüstenbrand",
+    "lat": 50.8347045,
+    "lng": 12.6789329,
+    "durationByCar": 70
+  },
+  {
+    "plz": "09120",
+    "name": "Bernsdorf",
+    "lat": 50.804263,
+    "lng": 12.9051769,
+    "durationByCar": 71
+  },
+  {
+    "plz": "01744",
+    "name": "Ulberndorf",
+    "lat": 50.87331469999999,
+    "lng": 13.6365623,
+    "durationByCar": 106
+  },
+  {
+    "plz": "02747",
+    "name": "Strahwalde",
+    "lat": 51.0275548,
+    "lng": 14.7542719,
+    "durationByCar": 138
+  },
+  {
+    "plz": "01825",
+    "name": "Waltersdorf",
+    "lat": 50.8618191,
+    "lng": 13.8521893,
+    "durationByCar": 96
+  },
+  {
+    "plz": "09328",
+    "name": "Rochsburg",
+    "lat": 50.96988289999999,
+    "lng": 12.7485375,
+    "durationByCar": 55
+  },
+  {
+    "plz": "08132",
+    "name": "Wulm",
+    "lat": 50.74020849999999,
+    "lng": 12.5776638,
+    "durationByCar": 80
+  },
+  {
+    "plz": "01844",
+    "name": "Rugiswalde",
+    "lat": 51.035552,
+    "lng": 14.2260006,
+    "durationByCar": 111
+  },
+  {
+    "plz": "02763",
+    "name": "Zittau",
+    "lat": 50.9241386,
+    "lng": 14.7701227,
+    "durationByCar": 148
+  },
+  {
+    "plz": "04821",
+    "name": "Polenz",
+    "lat": 51.3299748,
+    "lng": 12.613431,
+    "durationByCar": 39
+  },
+  {
+    "plz": "09366",
+    "name": "Stollberg/Erzgeb.",
+    "lat": 50.6988436,
+    "lng": 12.7615961,
+    "durationByCar": 70
+  },
+  {
+    "plz": "09629",
+    "name": "Steinbach",
+    "lat": 51.0098256,
+    "lng": 13.3779264,
+    "durationByCar": 69
+  },
+  {
+    "plz": "02923",
+    "name": "Wiesa",
+    "lat": 51.2327935,
+    "lng": 14.8952089,
+    "durationByCar": 125
+  },
+  {
+    "plz": "01824",
+    "name": "Rosenthal",
+    "lat": 50.87198679999999,
+    "lng": 14.0425613,
+    "durationByCar": 106
+  },
+  {
+    "plz": "04519",
+    "name": "Zschortau",
+    "lat": 51.4692784,
+    "lng": 12.3597817,
+    "durationByCar": 33
+  },
+  {
+    "plz": "01723",
+    "name": "Wilsdruff",
+    "lat": 51.0502972,
+    "lng": 13.5362057,
+    "durationByCar": 69
+  },
+  {
+    "plz": "04808",
+    "name": "Zwochau",
+    "lat": 51.38083,
+    "lng": 12.8291213,
+    "durationByCar": 56
+  },
+  {
+    "plz": "01705",
+    "name": "Zauckerode",
+    "lat": 51.0002571,
+    "lng": 13.6401737,
+    "durationByCar": 86
+  },
+  {
+    "plz": "01796",
+    "name": "Zuschendorf",
+    "lat": 50.9397088,
+    "lng": 13.9671509,
+    "durationByCar": 98
+  },
+  {
+    "plz": "08451",
+    "name": "Rudelswalde",
+    "lat": 50.8073347,
+    "lng": 12.3475959,
+    "durationByCar": 83
+  },
+  {
+    "plz": "01277",
+    "name": "Tolkewitz",
+    "lat": 51.0374106,
+    "lng": 13.7964562,
+    "durationByCar": 94
+  },
+  {
+    "plz": "08309",
+    "name": "Wolfsgrün",
+    "lat": 50.49494139999999,
+    "lng": 12.5996586,
+    "durationByCar": 105
+  },
+  {
+    "plz": "09526",
+    "name": "Schönfeld",
+    "lat": 50.6588398,
+    "lng": 13.338131,
+    "durationByCar": 118
+  },
+  {
+    "plz": "02979",
+    "name": "Zerre",
+    "lat": 51.5053795,
+    "lng": 14.2278628,
+    "durationByCar": 160
+  },
+  {
+    "plz": "08056",
+    "name": "Schedewitz/Geinitzsiedlung",
+    "lat": 50.7017384,
+    "lng": 12.4951376,
+    "durationByCar": 83
+  },
+  {
+    "plz": "04680",
+    "name": "Zschirla",
+    "lat": 51.1322299,
+    "lng": 12.8002136,
+    "durationByCar": 60
+  },
+  {
+    "plz": "01683",
+    "name": "Wunschwitz",
+    "lat": 51.0799296,
+    "lng": 13.3231137,
+    "durationByCar": 63
+  },
+  {
+    "plz": "04564",
+    "name": "Großdeuben",
+    "lat": 51.20127549999999,
+    "lng": 12.3882958,
+    "durationByCar": 30
+  },
+  {
+    "plz": "04178",
+    "name": "Burghausen-Rückmarsdorf",
+    "lat": 51.36048700000001,
+    "lng": 12.2821163,
+    "durationByCar": 11
+  },
+  {
+    "plz": "04774",
+    "name": "Schwarzer Kater",
+    "lat": 51.37363089999999,
+    "lng": 12.9889626,
+    "durationByCar": 65
+  },
+  {
+    "plz": "04552",
+    "name": "Zedtlitz",
+    "lat": 51.1304093,
+    "lng": 12.4930461,
+    "durationByCar": 42
+  },
+  {
+    "plz": "09114",
+    "name": "Glösa-Draisdorf",
+    "lat": 50.8681335,
+    "lng": 12.9121178,
+    "durationByCar": 65
+  },
+  {
+    "plz": "09569",
+    "name": "Wingendorf",
+    "lat": 50.8736601,
+    "lng": 13.1795546,
+    "durationByCar": 83
+  },
+  {
+    "plz": "01328",
+    "name": "Zaschendorf",
+    "lat": 51.0334817,
+    "lng": 13.8952564,
+    "durationByCar": 107
+  },
+  {
+    "plz": "04451",
+    "name": "Zweenfurth",
+    "lat": 51.3489935,
+    "lng": 12.5460737,
+    "durationByCar": 36
+  },
+  {
+    "plz": "09579",
+    "name": "Grünhainichen",
+    "lat": 50.7727755,
+    "lng": 13.1826447,
+    "durationByCar": 99
+  },
+  {
+    "plz": "01809",
+    "name": "Weesenstein",
+    "lat": 50.9533266,
+    "lng": 13.8547751,
+    "durationByCar": 87
+  },
+  {
+    "plz": "08060",
+    "name": "Marienthal West",
+    "lat": 50.7278136,
+    "lng": 12.4491406,
+    "durationByCar": 91
+  },
+  {
+    "plz": "09618",
+    "name": "St. Michaelis",
+    "lat": 50.798815,
+    "lng": 13.3218443,
+    "durationByCar": 101
+  },
+  {
+    "plz": "04824",
+    "name": "Brandis",
+    "lat": 51.3228072,
+    "lng": 12.5617867,
+    "durationByCar": 35
+  },
+  {
+    "plz": "09212",
+    "name": "Wolkenburg-Kaufungen",
+    "lat": 50.8676316,
+    "lng": 12.7159205,
+    "durationByCar": 60
+  },
+  {
+    "plz": "09577",
+    "name": "Niederwiesa",
+    "lat": 50.8633227,
+    "lng": 13.0154259,
+    "durationByCar": 73
+  },
+  {
+    "plz": "04567",
+    "name": "Trages",
+    "lat": 51.188107,
+    "lng": 12.5485655,
+    "durationByCar": 38
+  },
+  {
+    "plz": "08258",
+    "name": "Wohlhausen",
+    "lat": 50.3051377,
+    "lng": 12.3244969,
+    "durationByCar": 126
+  },
+  {
+    "plz": "02929",
+    "name": "Uhsmannsdorf",
+    "lat": 51.3326796,
+    "lng": 14.9654413,
+    "durationByCar": 144
+  },
+  {
+    "plz": "01900",
+    "name": "Kleinröhrsdorf",
+    "lat": 51.14654669999999,
+    "lng": 14.0245274,
+    "durationByCar": 94
+  },
+  {
+    "plz": "04575",
+    "name": "Neukieritzsch",
+    "lat": 51.1499858,
+    "lng": 12.4104895,
+    "durationByCar": 42
+  },
+  {
+    "plz": "01157",
+    "name": "Stetzsch",
+    "lat": 51.06341339999999,
+    "lng": 13.6678312,
+    "durationByCar": 77
+  },
+  {
+    "plz": "02997",
+    "name": "Wittichenau",
+    "lat": 51.38362240000001,
+    "lng": 14.2431905,
+    "durationByCar": 124
+  },
+  {
+    "plz": "08491",
+    "name": "Ziegelei",
+    "lat": 50.6135241,
+    "lng": 12.2451845,
+    "durationByCar": 95
+  },
+  {
+    "plz": "01640",
+    "name": "Sörnewitz",
+    "lat": 51.131589,
+    "lng": 13.5638128,
+    "durationByCar": 90
+  },
+  {
+    "plz": "02977",
+    "name": "Zeißig",
+    "lat": 51.424958,
+    "lng": 14.1861706,
+    "durationByCar": 134
+  },
+  {
+    "plz": "09395",
+    "name": "Brünlos",
+    "lat": 50.6691692,
+    "lng": 12.8857311,
+    "durationByCar": 88
+  },
+  {
+    "plz": "08468",
+    "name": "Unterheinsdorf",
+    "lat": 50.6203648,
+    "lng": 12.3217972,
+    "durationByCar": 91
+  },
+  {
+    "plz": "01324",
+    "name": "Weißer Hirsch",
+    "lat": 51.0618662,
+    "lng": 13.8547719,
+    "durationByCar": 99
+  },
+  {
+    "plz": "01909",
+    "name": "Seeligstadt",
+    "lat": 51.10808160000001,
+    "lng": 14.1052967,
+    "durationByCar": 103
+  },
+  {
+    "plz": "01936",
+    "name": "Zeisholz",
+    "lat": 51.2656667,
+    "lng": 13.9043743,
+    "durationByCar": 103
+  },
+  {
+    "plz": "09217",
+    "name": "Schweizerthal",
+    "lat": 50.92613919999999,
+    "lng": 12.8086635,
+    "durationByCar": 61
+  },
+  {
+    "plz": "09623",
+    "name": "Rechenberg-Bienenmühle",
+    "lat": 50.76278660000001,
+    "lng": 13.5437572,
+    "durationByCar": 108
+  },
+  {
+    "plz": "08107",
+    "name": "Wolfersgrün",
+    "lat": 50.5927385,
+    "lng": 12.5466196,
+    "durationByCar": 90
+  },
+  {
+    "plz": "09235",
+    "name": "Meinersdorf",
+    "lat": 50.7344175,
+    "lng": 12.9225002,
+    "durationByCar": 83
+  },
+  {
+    "plz": "08064",
+    "name": "Rottmannsdorf",
+    "lat": 50.6774332,
+    "lng": 12.4754819,
+    "durationByCar": 83
+  },
+  {
+    "plz": "04779",
+    "name": "Wiederoda",
+    "lat": 51.3214185,
+    "lng": 12.9791264,
+    "durationByCar": 64
+  },
+  {
+    "plz": "02699",
+    "name": "Zescha",
+    "lat": 51.31058969999999,
+    "lng": 14.3291074,
+    "durationByCar": 116
+  },
+  {
+    "plz": "09544",
+    "name": "Rauschenbach",
+    "lat": 50.6767912,
+    "lng": 13.4691343,
+    "durationByCar": 122
+  },
+  {
+    "plz": "01591",
+    "name": "Riesa",
+    "lat": 51.31704939999999,
+    "lng": 13.2520646,
+    "durationByCar": 80
+  },
+  {
+    "plz": "09236",
+    "name": "Röllingshain",
+    "lat": 50.9409267,
+    "lng": 12.8904197,
+    "durationByCar": 72
+  },
+  {
+    "plz": "04277",
+    "name": "Marienbrunn",
+    "lat": 51.3078032,
+    "lng": 12.375401,
+    "durationByCar": 16
+  },
+  {
+    "plz": "09633",
+    "name": "Tuttendorf",
+    "lat": 50.95503679999999,
+    "lng": 13.3476849,
+    "durationByCar": 75
+  },
+  {
+    "plz": "01187",
+    "name": "Plauen",
+    "lat": 51.0266014,
+    "lng": 13.7090684,
+    "durationByCar": 87
+  },
+  {
+    "plz": "07985",
+    "name": "Scholas",
+    "lat": 50.60956239999999,
+    "lng": 12.1702369,
+    "durationByCar": 101
+  },
+  {
+    "plz": "01619",
+    "name": "Zschepa",
+    "lat": 51.356403,
+    "lng": 13.3251086,
+    "durationByCar": 89
+  },
+  {
+    "plz": "04425",
+    "name": "Taucha",
+    "lat": 51.39014659999999,
+    "lng": 12.5008705,
+    "durationByCar": 37
+  },
+  {
+    "plz": "09465",
+    "name": "Sehma",
+    "lat": 50.4846763,
+    "lng": 12.9806115,
+    "durationByCar": 110
+  },
+  {
+    "plz": "08058",
+    "name": "Weißenborn",
+    "lat": 50.7367202,
+    "lng": 12.4798711,
+    "durationByCar": 83
+  },
+  {
+    "plz": "09474",
+    "name": "Walthersdorf",
+    "lat": 50.5117931,
+    "lng": 12.9393273,
+    "durationByCar": 106
+  },
+  {
+    "plz": "08112",
+    "name": "Wilkau-Haßlau",
+    "lat": 50.6725499,
+    "lng": 12.511863,
+    "durationByCar": 84
+  },
+  {
+    "plz": "02733",
+    "name": "Weigsdorf-Köblitz",
+    "lat": 51.0983612,
+    "lng": 14.5208403,
+    "durationByCar": 126
+  },
+  {
+    "plz": "01848",
+    "name": "Zeschnig",
+    "lat": 50.9889401,
+    "lng": 14.1559133,
+    "durationByCar": 119
+  },
+  {
+    "plz": "04880",
+    "name": "Wörblitz",
+    "lat": 51.6386699,
+    "lng": 12.8791665,
+    "durationByCar": 81
+  },
+  {
+    "plz": "08459",
+    "name": "Neukirchen/Pleiße",
+    "lat": 50.7855605,
+    "lng": 12.4028739,
+    "durationByCar": 83
+  },
+  {
+    "plz": "02906",
+    "name": "Weigersdorf",
+    "lat": 51.2846918,
+    "lng": 14.705929,
+    "durationByCar": 124
+  },
+  {
+    "plz": "01847",
+    "name": "Uttewalde",
+    "lat": 50.9891752,
+    "lng": 13.9963251,
+    "durationByCar": 99
+  },
+  {
+    "plz": "08539",
+    "name": "Unterpirk",
+    "lat": 50.5287005,
+    "lng": 11.9954859,
+    "durationByCar": 91
+  },
+  {
+    "plz": "08393",
+    "name": "Tettau",
+    "lat": 50.8558726,
+    "lng": 12.4852348,
+    "durationByCar": 72
+  },
+  {
+    "plz": "02829",
+    "name": "Zodel",
+    "lat": 51.1468545,
+    "lng": 14.8852208,
+    "durationByCar": 126
+  },
+  {
+    "plz": "02827",
+    "name": "Weinhübel",
+    "lat": 51.1123561,
+    "lng": 14.9634276,
+    "durationByCar": 137
+  },
+  {
+    "plz": "09548",
+    "name": "Oberlochmühle",
+    "lat": 50.6483533,
+    "lng": 13.4524206,
+    "durationByCar": 126
+  },
+  {
+    "plz": "04574",
+    "name": "Deutzen",
+    "lat": 51.1234045,
+    "lng": 12.4350673,
+    "durationByCar": 45
+  },
+  {
+    "plz": "01612",
+    "name": "Zschaiten",
+    "lat": 51.2991786,
+    "lng": 13.3900947,
+    "durationByCar": 90
+  },
+  {
+    "plz": "02788",
+    "name": "Wittgendorf",
+    "lat": 50.9436061,
+    "lng": 14.8847899,
+    "durationByCar": 156
+  },
+  {
+    "plz": "09439",
+    "name": "Wilischthal",
+    "lat": 50.7342313,
+    "lng": 13.0108691,
+    "durationByCar": 88
+  },
+  {
+    "plz": "01833",
+    "name": "Wünschendorf",
+    "lat": 51.0488464,
+    "lng": 14.0790883,
+    "durationByCar": 106
+  },
+  {
+    "plz": "01237",
+    "name": "Seidnitz",
+    "lat": 51.0134206,
+    "lng": 13.7913392,
+    "durationByCar": 87
+  },
+  {
+    "plz": "04279",
+    "name": "Lößnig",
+    "lat": 51.29465279999999,
+    "lng": 12.3988261,
+    "durationByCar": 21
+  },
+  {
+    "plz": "04435",
+    "name": "Wolteritz",
+    "lat": 51.41283,
+    "lng": 12.2389121,
+    "durationByCar": 29
+  },
+  {
+    "plz": "01159",
+    "name": "Wölfnitz",
+    "lat": 51.041241,
+    "lng": 13.6977528,
+    "durationByCar": 84
+  },
+  {
+    "plz": "01829",
+    "name": "Zeichen",
+    "lat": 50.95783729999999,
+    "lng": 14.024747,
+    "durationByCar": 103
+  },
+  {
+    "plz": "09619",
+    "name": "Zethau",
+    "lat": 50.7612417,
+    "lng": 13.4192075,
+    "durationByCar": 110
+  },
+  {
+    "plz": "08297",
+    "name": "Zwönitz",
+    "lat": 50.6495135,
+    "lng": 12.8257791,
+    "durationByCar": 84
+  },
+  {
+    "plz": "09487",
+    "name": "Schlettau",
+    "lat": 50.5666404,
+    "lng": 12.9538822,
+    "durationByCar": 104
+  },
+  {
+    "plz": "08223",
+    "name": "Werda",
+    "lat": 50.4481309,
+    "lng": 12.3596591,
+    "durationByCar": 108
+  },
+  {
+    "plz": "09430",
+    "name": "Wiltzsch",
+    "lat": 50.67604679999999,
+    "lng": 13.0200248,
+    "durationByCar": 96
+  },
+  {
+    "plz": "09429",
+    "name": "Wolkenstein",
+    "lat": 50.6558649,
+    "lng": 13.0703252,
+    "durationByCar": 102
+  },
+  {
+    "plz": "04463",
+    "name": "Störmthal",
+    "lat": 51.237716,
+    "lng": 12.4831199,
+    "durationByCar": 33
+  },
+  {
+    "plz": "02999",
+    "name": "Weißkollm",
+    "lat": 51.3941773,
+    "lng": 14.3971672,
+    "durationByCar": 138
+  },
+  {
+    "plz": "08396",
+    "name": "Wickersdorf",
+    "lat": 50.8871319,
+    "lng": 12.586579,
+    "durationByCar": 62
+  },
+  {
+    "plz": "02730",
+    "name": "Ebersbach/Sa.",
+    "lat": 51.0052452,
+    "lng": 14.5943678,
+    "durationByCar": 140
+  },
+  {
+    "plz": "08115",
+    "name": "Thanhof",
+    "lat": 50.6925394,
+    "lng": 12.4262965,
+    "durationByCar": 84
+  },
+  {
+    "plz": "07952",
+    "name": "Wallengrün",
+    "lat": 50.5918585,
+    "lng": 11.9943259,
+    "durationByCar": 87
+  },
+  {
+    "plz": "02739",
+    "name": "Walddorf",
+    "lat": 50.9878413,
+    "lng": 14.6508516,
+    "durationByCar": 141
+  },
+  {
+    "plz": "09123",
+    "name": "Klaffenbach",
+    "lat": 50.7868675,
+    "lng": 12.8945945,
+    "durationByCar": 71
+  },
+  {
+    "plz": "04523",
+    "name": "Wiederau",
+    "lat": 51.1677678,
+    "lng": 12.247835,
+    "durationByCar": 37
+  },
+  {
+    "plz": "09481",
+    "name": "Schwarzbach",
+    "lat": 50.5771254,
+    "lng": 12.8681889,
+    "durationByCar": 91
+  },
+  {
+    "plz": "04319",
+    "name": "Paunsdorf",
+    "lat": 51.3433862,
+    "lng": 12.4886095,
+    "durationByCar": 32
+  },
+  {
+    "plz": "09575",
+    "name": "Kleinhartmannsdorf",
+    "lat": 50.7922423,
+    "lng": 13.2432804,
+    "durationByCar": 98
+  },
+  {
+    "plz": "09125",
+    "name": "Reichenhain",
+    "lat": 50.7941097,
+    "lng": 12.9331275,
+    "durationByCar": 72
+  },
+  {
+    "plz": "09385",
+    "name": "Ursprung",
+    "lat": 50.7399531,
+    "lng": 12.7466648,
+    "durationByCar": 72
+  },
+  {
+    "plz": "04571",
+    "name": "Rötha",
+    "lat": 51.1958824,
+    "lng": 12.427564,
+    "durationByCar": 36
+  },
+  {
+    "plz": "08265",
+    "name": "Landwüst",
+    "lat": 50.3150096,
+    "lng": 12.3787367,
+    "durationByCar": 127
+  },
+  {
+    "plz": "04129",
+    "name": "Eutritzsch",
+    "lat": 51.3616353,
+    "lng": 12.39006,
+    "durationByCar": 16
+  },
+  {
+    "plz": "09557",
+    "name": "Flöha",
+    "lat": 50.8514887,
+    "lng": 13.095616,
+    "durationByCar": 86
+  },
+  {
+    "plz": "01454",
+    "name": "Wachau",
+    "lat": 51.13721530000001,
+    "lng": 13.9178698,
+    "durationByCar": 90
+  },
+  {
+    "plz": "01109",
+    "name": "Wilschdorf",
+    "lat": 51.1173979,
+    "lng": 13.7283149,
+    "durationByCar": 79
+  },
+  {
+    "plz": "01558",
+    "name": "Zschauitz",
+    "lat": 51.2884296,
+    "lng": 13.5441928,
+    "durationByCar": 105
+  },
+  {
+    "plz": "02794",
+    "name": "Spitzkunnersdorf",
+    "lat": 50.9549285,
+    "lng": 14.651938,
+    "durationByCar": 147
+  },
+  {
+    "plz": "01616",
+    "name": "Unterreußen",
+    "lat": 51.3639725,
+    "lng": 13.2150623,
+    "durationByCar": 81
+  },
+  {
+    "plz": "09509",
+    "name": "Wernsdorf",
+    "lat": 50.7037331,
+    "lng": 13.2257882,
+    "durationByCar": 105
+  },
+  {
+    "plz": "01737",
+    "name": "Tharandt",
+    "lat": 50.9700656,
+    "lng": 13.5362012,
+    "durationByCar": 89
+  },
+  {
+    "plz": "01609",
+    "name": "Wülknitz",
+    "lat": 51.3890612,
+    "lng": 13.4140191,
+    "durationByCar": 95
+  },
+  {
+    "plz": "02742",
+    "name": "Neusalza-Spremberg",
+    "lat": 51.0381065,
+    "lng": 14.5276538,
+    "durationByCar": 135
+  },
+  {
+    "plz": "01896",
+    "name": "Pulsnitz",
+    "lat": 51.1905921,
+    "lng": 14.0051025,
+    "durationByCar": 94
+  },
+  {
+    "plz": "08141",
+    "name": "Vielau",
+    "lat": 50.6934889,
+    "lng": 12.5462188,
+    "durationByCar": 75
+  },
+  {
+    "plz": "01067",
+    "name": "Wilsdruffer Vorstadt",
+    "lat": 51.05754959999999,
+    "lng": 13.7170648,
+    "durationByCar": 81
+  },
+  {
+    "plz": "08548",
+    "name": "Syrau",
+    "lat": 50.5435385,
+    "lng": 12.0782827,
+    "durationByCar": 95
+  },
+  {
+    "plz": "01778",
+    "name": "Müglitz",
+    "lat": 50.7569262,
+    "lng": 13.7923125,
+    "durationByCar": 107
+  },
+  {
+    "plz": "09113",
+    "name": "Hilbersdorf",
+    "lat": 50.8460084,
+    "lng": 12.9101142,
+    "durationByCar": 69
+  },
+  {
+    "plz": "09126",
+    "name": "Sonnenberg",
+    "lat": 50.8191139,
+    "lng": 12.9376782,
+    "durationByCar": 74
+  },
+  {
+    "plz": "09405",
+    "name": "Krumhermersdorf",
+    "lat": 50.747343,
+    "lng": 13.0745827,
+    "durationByCar": 88
+  },
+  {
+    "plz": "04736",
+    "name": "Rauschenthal",
+    "lat": 51.0737877,
+    "lng": 13.0277019,
+    "durationByCar": 66
+  },
+  {
+    "plz": "04827",
+    "name": "Posthausen",
+    "lat": 51.35848679999999,
+    "lng": 12.6286071,
+    "durationByCar": 42
+  },
+  {
+    "plz": "01189",
+    "name": "Kaitz",
+    "lat": 51.0144934,
+    "lng": 13.6972162,
+    "durationByCar": 84
+  },
+  {
+    "plz": "04741",
+    "name": "Zweinig",
+    "lat": 51.0759242,
+    "lng": 13.1732341,
+    "durationByCar": 58
+  },
+  {
+    "plz": "01689",
+    "name": "Weinböhla",
+    "lat": 51.1810234,
+    "lng": 13.5509434,
+    "durationByCar": 93
+  },
+  {
+    "plz": "04157",
+    "name": "Gohlis-Nord",
+    "lat": 51.3746598,
+    "lng": 12.3724257
+  },
+  {
+    "plz": "04155",
+    "name": "Gohlis-Süd",
+    "lat": 51.36016679999999,
+    "lng": 12.358563
+  },
+  {
+    "plz": "01108",
+    "name": "Weixdorf",
+    "lat": 51.1443239,
+    "lng": 13.7997057
+  },
+  {
+    "plz": "01169",
+    "name": "Gorbitz-Süd",
+    "lat": 51.04405389999999,
+    "lng": 13.6665997
+  },
+  {
+    "plz": "01217",
+    "name": "Zschertnitz/Strehlen-Südwest",
+    "lat": 51.0144606,
+    "lng": 13.7439601
+  },
+  {
+    "plz": "08262",
+    "name": "Tannenbergsthal",
+    "lat": 50.431765,
+    "lng": 12.4642595
+  },
+  {
+    "plz": "04860",
+    "name": "Zinna",
+    "lat": 51.5486301,
+    "lng": 12.9525423
+  },
+  {
+    "plz": "02959",
+    "name": "Trebendorf",
+    "lat": 51.5360042,
+    "lng": 14.5290039
+  },
+  {
+    "plz": "04442",
+    "name": "Zwenkau",
+    "lat": 51.2121652,
+    "lng": 12.3251777
+  },
+  {
+    "plz": "09432",
+    "name": "Großolbersdorf",
+    "lat": 50.6945695,
+    "lng": 13.0888151
+  },
+  {
+    "plz": "09518",
+    "name": "Wolfsberg",
+    "lat": 50.6296936,
+    "lng": 13.117615
+  },
+  {
+    "plz": "09603",
+    "name": "Siebenlehn",
+    "lat": 50.96611249999999,
+    "lng": 13.3111605
+  },
+  {
+    "plz": "02779",
+    "name": "Großschönau",
+    "lat": 50.8952121,
+    "lng": 14.6639858
+  },
+  {
+    "plz": "01257",
+    "name": "Niedersedlitz",
+    "lat": 50.9980905,
+    "lng": 13.813979
+  },
+  {
+    "plz": "04249",
+    "name": "Knautkleeberg-Knauthain",
+    "lat": 51.27898889999999,
+    "lng": 12.2965373
+  },
+  {
+    "plz": "09477",
+    "name": "Steinbach",
+    "lat": 50.5320843,
+    "lng": 13.119003
+  },
+  {
+    "plz": "09117",
+    "name": "Reichenbrand",
+    "lat": 50.8220669,
+    "lng": 12.8405599
+  },
+  {
+    "plz": "01219",
+    "name": "Gruna/Strehlen-Nordost",
+    "lat": 51.024895,
+    "lng": 13.7678094
+  },
+  {
+    "plz": "09434",
+    "name": "Zschopau"
+  },
+  {
+    "plz": "08134",
+    "name": "Wildenfels",
+    "lat": 50.6683488,
+    "lng": 12.6088829
+  },
+  {
+    "plz": "04209",
+    "name": "Grünau-Ost",
+    "lat": 51.3187917,
+    "lng": 12.2945394
+  },
+  {
+    "plz": "04205",
+    "name": "Schönau",
+    "lat": 51.3269803,
+    "lng": 12.270351
+  },
+  {
+    "plz": "04207",
+    "name": "Lausen-Grünau",
+    "lat": 51.3109993,
+    "lng": 12.2705518
+  },
+  {
+    "plz": "01458",
+    "name": "Ottendorf-Okrilla",
+    "lat": 51.1751105,
+    "lng": 13.8246035
+  },
+  {
+    "plz": "04565",
+    "name": "Wildenhain",
+    "lat": 51.09314029999999,
+    "lng": 12.3958911
+  },
+  {
+    "plz": "02957",
+    "name": "Werdeck",
+    "lat": 51.5202232,
+    "lng": 14.7146572
+  },
+  {
+    "plz": "09484",
+    "name": "Oberwiesenthal, Kurort",
+    "lat": 50.440517,
+    "lng": 12.9526705
+  },
+  {
+    "plz": "08118",
+    "name": "Zschocken",
+    "lat": 50.661953,
+    "lng": 12.6713652
+  },
+  {
+    "plz": "08525",
+    "name": "Zwoschwitz",
+    "lat": 50.5071184,
+    "lng": 12.1363628
+  },
+  {
+    "plz": "01465",
+    "name": "Schönborn",
+    "lat": 51.1260965,
+    "lng": 13.8417809
+  },
+  {
+    "plz": "09350",
+    "name": "Rödlitz",
+    "lat": 50.7547759,
+    "lng": 12.6271536
+  },
+  {
+    "plz": "04329",
+    "name": "Heiterblick",
+    "lat": 51.35827579999999,
+    "lng": 12.4753491
+  },
+  {
+    "plz": "09119",
+    "name": "Helbersdorf",
+    "lat": 50.81758139999999,
+    "lng": 12.8959545
+  },
+  {
+    "plz": "01326",
+    "name": "Wachwitz",
+    "lat": 51.0541268,
+    "lng": 13.8144233
+  },
+  {
+    "plz": "01776",
+    "name": "Seyde",
+    "lat": 50.7645382,
+    "lng": 13.6259982
+  },
+  {
+    "plz": "09419",
+    "name": "Thum",
+    "lat": 50.6704527,
+    "lng": 12.9512865
+  },
+  {
+    "plz": "09627",
+    "name": "Sohra",
+    "lat": 50.8982125,
+    "lng": 13.4362054
+  },
+  {
+    "plz": "08144",
+    "name": "Voigtsgrün",
+    "lat": 50.6230365,
+    "lng": 12.4621691
+  },
+  {
+    "plz": "09634",
+    "name": "Hirschfeld",
+    "lat": 51.0390291,
+    "lng": 13.355112
+  },
+  {
+    "plz": "04288",
+    "name": "Liebertwolkwitz",
+    "lat": 51.2928924,
+    "lng": 12.4645518
+  },
+  {
+    "plz": "08328",
+    "name": "Stützengrün",
+    "lat": 50.5334887,
+    "lng": 12.5414645
+  },
+  {
+    "plz": "09122",
+    "name": "Morgenleite",
+    "lat": 50.7961521,
+    "lng": 12.8822288
+  },
+  {
+    "plz": "09387",
+    "name": "Seifersdorf",
+    "lat": 50.76553970000001,
+    "lng": 12.8021669
+  },
+  {
+    "plz": "02991",
+    "name": "Torno",
+    "lat": 51.4567931,
+    "lng": 14.1008267
+  },
+  {
+    "plz": "01307",
+    "name": "Striesen-West",
+    "lat": 51.0566797,
+    "lng": 13.7688263
+  },
+  {
+    "plz": "08547",
+    "name": "Steinsdorf",
+    "lat": 50.5517043,
+    "lng": 12.1267448
+  },
+  {
+    "plz": "01139",
+    "name": "Übigau",
+    "lat": 51.0747119,
+    "lng": 13.6846314
+  },
+  {
+    "plz": "09514",
+    "name": "Wünschendorf",
+    "lat": 50.735314,
+    "lng": 13.1866916
+  },
+  {
+    "plz": "09116",
+    "name": "Stelzendorf",
+    "lat": 50.8290179,
+    "lng": 12.872972
+  },
+  {
+    "plz": "01734",
+    "name": "Spechtritz",
+    "lat": 50.9492918,
+    "lng": 13.6668556
+  },
+  {
+    "plz": "01239",
+    "name": "Torna",
+    "lat": 50.9957514,
+    "lng": 13.7886884,
+    "durationByCar": 82
+  },
+  {
+    "plz": "08373",
+    "name": "Weidensdorf",
+    "lat": 50.8553613,
+    "lng": 12.5643008,
+    "durationByCar": 67
+  },
+  {
+    "plz": "02899",
+    "name": "Schönau-Berzdorf a. d. Eigen",
+    "lat": 51.01567120000001,
+    "lng": 14.9313425,
+    "durationByCar": 147
+  },
+  {
+    "plz": "01259",
+    "name": "Zschieren",
+    "lat": 51.0009506,
+    "lng": 13.8564276,
+    "durationByCar": 93
+  },
+  {
+    "plz": "04229",
+    "name": "Schleußig",
+    "lat": 51.322446,
+    "lng": 12.3379646,
+    "durationByCar": 8
+  },
+  {
+    "plz": "08248",
+    "name": "Mühlleithen",
+    "lat": 50.3933464,
+    "lng": 12.4781284,
+    "durationByCar": 128
+  },
+  {
+    "plz": "02828",
+    "name": "Ober-Neundorf",
+    "lat": 51.1614467,
+    "lng": 14.9740736,
+    "durationByCar": 129
+  },
+  {
+    "plz": "08412",
+    "name": "Werdau",
+    "lat": 50.7410097,
+    "lng": 12.3756777,
+    "durationByCar": 86
+  },
+  {
+    "plz": "09249",
+    "name": "Taura",
+    "lat": 50.9176492,
+    "lng": 12.8433679,
+    "durationByCar": 65
+  },
+  {
+    "plz": "09356",
+    "name": "St. Egidien",
+    "lat": 50.789161,
+    "lng": 12.6145217,
+    "durationByCar": 73
+  },
+  {
+    "plz": "07919",
+    "name": "Mühltroff",
+    "lat": 50.53946579999999,
+    "lng": 11.9289489,
+    "durationByCar": 83
+  },
+  {
+    "plz": "08352",
+    "name": "Raschau",
+    "lat": 50.5201329,
+    "lng": 12.8525401,
+    "durationByCar": 105
+  },
+  {
+    "plz": "08428",
+    "name": "Trünzig",
+    "lat": 50.7498561,
+    "lng": 12.2931088,
+    "durationByCar": 89
+  },
+  {
+    "plz": "08312",
+    "name": "Lauter",
+    "lat": 50.5554494,
+    "lng": 12.7244132,
+    "durationByCar": 93
+  },
+  {
+    "plz": "01587",
+    "name": "Leutewitz",
+    "lat": 51.3037968,
+    "lng": 13.2670518,
+    "durationByCar": 78
+  },
+  {
+    "plz": "04179",
+    "name": "Neulindenau",
+    "lat": 51.3486621,
+    "lng": 12.3166973,
+    "durationByCar": 6
+  },
+  {
+    "plz": "09638",
+    "name": "Weigmannsdorf",
+    "lat": 50.8443096,
+    "lng": 13.4059465,
+    "durationByCar": 93
+  },
+  {
+    "plz": "08289",
+    "name": "Schneeberg",
+    "lat": 50.59098290000001,
+    "lng": 12.6400263,
+    "durationByCar": 89
+  },
+  {
+    "plz": "04158",
+    "name": "Wiederitzsch",
+    "lat": 51.40389760000001,
+    "lng": 12.3230746,
+    "durationByCar": 26
+  },
+  {
+    "plz": "02797",
+    "name": "Oybin, Kurort",
+    "lat": 50.8412532,
+    "lng": 14.7423869,
+    "durationByCar": 166
+  },
+  {
+    "plz": "01662",
+    "name": "Meißen",
+    "lat": 51.1632952,
+    "lng": 13.475152,
+    "durationByCar": 83
+  },
+  {
+    "plz": "08527",
+    "name": "Unterlosa",
+    "lat": 50.4862985,
+    "lng": 12.1381551,
+    "durationByCar": 100
+  },
+  {
+    "plz": "04289",
+    "name": "Probstheida",
+    "lat": 51.2938064,
+    "lng": 12.4314657,
+    "durationByCar": 27
+  },
+  {
+    "plz": "01127",
+    "name": "Trachenberge",
+    "lat": 51.0779366,
+    "lng": 13.7224379,
+    "durationByCar": 79
+  },
+  {
+    "plz": "04356",
+    "name": "Seehausen",
+    "lat": 51.419556,
+    "lng": 12.4257821,
+    "durationByCar": 32
+  },
+  {
+    "plz": "04357",
+    "name": "Mockau-Süd",
+    "lat": 51.3751912,
+    "lng": 12.4127633,
+    "durationByCar": 21
+  },
+  {
+    "plz": "04159",
+    "name": "Möckern",
+    "lat": 51.3792234,
+    "lng": 12.3046822,
+    "durationByCar": 19
+  },
+  {
+    "plz": "08499",
+    "name": "Obermylau",
+    "lat": 50.6240772,
+    "lng": 12.2624314,
+    "durationByCar": 94
+  },
+  {
+    "plz": "04657",
+    "name": "Rathendorf",
+    "lat": 51.01623,
+    "lng": 12.7169869,
+    "durationByCar": 53
+  },
+  {
+    "plz": "02727",
+    "name": "Neugersdorf",
+    "lat": 50.9773042,
+    "lng": 14.6094086,
+    "durationByCar": 144
+  },
+  {
+    "plz": "08496",
+    "name": "Schönbach",
+    "lat": 50.66038950000001,
+    "lng": 12.355939,
+    "durationByCar": 91
+  },
+  {
+    "plz": "09488",
+    "name": "Wiesa",
+    "lat": 50.61050179999999,
+    "lng": 13.0203444,
+    "durationByCar": 104
+  },
+  {
+    "plz": "08062",
+    "name": "Neuplanitz",
+    "lat": 50.6968141,
+    "lng": 12.4676488,
+    "durationByCar": 88
+  },
+  {
+    "plz": "04315",
+    "name": "Volkmarsdorf",
+    "lat": 51.34400309999999,
+    "lng": 12.4100607,
+    "durationByCar": 20
+  },
+  {
+    "plz": "02791",
+    "name": "Oberoderwitz",
+    "lat": 50.9564824,
+    "lng": 14.7224231,
+    "durationByCar": 141
+  },
+  {
+    "plz": "08239",
+    "name": "Trieb/Vogtl.",
+    "lat": 50.4797993,
+    "lng": 12.2906614,
+    "durationByCar": 103
+  },
+  {
+    "plz": "01069",
+    "name": "Südvorstadt-West",
+    "lat": 51.0391349,
+    "lng": 13.7376748,
+    "durationByCar": 88
+  },
+  {
+    "plz": "04349",
+    "name": "Thekla",
+    "lat": 51.3800901,
+    "lng": 12.4347137,
+    "durationByCar": 25
+  },
+  {
+    "plz": "04317",
+    "name": "Reudnitz-Thonberg",
+    "lat": 51.33037540000001,
+    "lng": 12.40504,
+    "durationByCar": 18
+  },
+  {
+    "plz": "01904",
+    "name": "Weifa",
+    "lat": 51.09696959999999,
+    "lng": 14.3066911,
+    "durationByCar": 116
+  },
+  {
+    "plz": "08228",
+    "name": "Rützengrün",
+    "lat": 50.5311154,
+    "lng": 12.4056694,
+    "durationByCar": 96
+  },
+  {
+    "plz": "09247",
+    "name": "Röhrsdorf",
+    "lat": 50.860909,
+    "lng": 12.8362695,
+    "durationByCar": 63
+  },
+  {
+    "plz": "08237",
+    "name": "Wildenau",
+    "lat": 50.5390715,
+    "lng": 12.5026751,
+    "durationByCar": 98
+  },
+  {
+    "plz": "04347",
+    "name": "Schönefeld-Ost",
+    "lat": 51.35848499999999,
+    "lng": 12.4239486,
+    "durationByCar": 24
+  },
+  {
+    "plz": "09468",
+    "name": "Tannenberg",
+    "lat": 50.6244455,
+    "lng": 12.9084058,
+    "durationByCar": 91
+  },
+  {
+    "plz": "02689",
+    "name": "Wehrsdorf",
+    "lat": 51.0445876,
+    "lng": 14.4271742,
+    "durationByCar": 131
+  },
+  {
+    "plz": "04299",
+    "name": "Stötteritz",
+    "lat": 51.3200403,
+    "lng": 12.4260263,
+    "durationByCar": 23
+  },
+  {
+    "plz": "04275",
+    "name": "Südvorstadt",
+    "lat": 51.3216185,
+    "lng": 12.3706068,
+    "durationByCar": 13
+  },
+  {
+    "plz": "09437",
+    "name": "Witzschdorf",
+    "lat": 50.7508034,
+    "lng": 13.1412709,
+    "durationByCar": 97
+  },
+  {
+    "plz": "02799",
+    "name": "Waltersdorf",
+    "lat": 50.8689884,
+    "lng": 14.6497109,
+    "durationByCar": 158
+  },
+  {
+    "plz": "09228",
+    "name": "Wittgensdorf",
+    "lat": 50.8823933,
+    "lng": 12.8686772,
+    "durationByCar": 65
+  },
+  {
+    "plz": "04105",
+    "name": "Zentrum-Nordwest",
+    "lat": 51.3492577,
+    "lng": 12.3610062,
+    "durationByCar": 8
+  },
+  {
+    "plz": "04103",
+    "name": "Zentrum-Südost",
+    "lat": 51.3302732,
+    "lng": 12.3891818,
+    "durationByCar": 17
+  },
+  {
+    "plz": "04107",
+    "name": "Zentrum-Süd",
+    "lat": 51.3296542,
+    "lng": 12.3734503,
+    "durationByCar": 12
+  },
+  {
+    "plz": "04109",
+    "name": "Zentrum-West",
+    "lat": 51.3383504,
+    "lng": 12.3634475,
+    "durationByCar": 10
+  },
+  {
+    "plz": "08267",
+    "name": "Zwota",
+    "lat": 50.3542025,
+    "lng": 12.4335106,
+    "durationByCar": 121
+  }
+]

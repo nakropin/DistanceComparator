@@ -1,0 +1,3067 @@
+{
+  "sachsen": [
+    [
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 860,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 180
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 372,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 132,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 95,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 73,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 324,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 63
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 96,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 88,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 72,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 164,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 96,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 24
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 809,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 180
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 353,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 125,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 92,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 312,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 63
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 94,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 87,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 69,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 144,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 82,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 24
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 787,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 180
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 346,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 121,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 91,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 62,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 304,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 63
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 91,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 85,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 137,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 76,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 24
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 60,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 546,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 179
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 230,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 79,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 227,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 62
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 70,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 89,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 544,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 179
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 228,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 78,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 228,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 62
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 88,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 540,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 179
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 228,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 78,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 223,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 62
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 46,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 89,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 537,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 179
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 228,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 78,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 220,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 62
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 45,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 89,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 527,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 179
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 224,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 77,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 66,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 214,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 62
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 65,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 44,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 89,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 48,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 522,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 222,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 77,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 212,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 65,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 43,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 88,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 515,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 220,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 75,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 210,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 66,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 43,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 85,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 46,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 38,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 511,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 218,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 74,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 210,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 66,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 43,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 83,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 44,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 38,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 505,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 216,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 73,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 62,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 207,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 43,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 82,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 43,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 38,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 499,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 214,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 62,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 204,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 42,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 81,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 43,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 496,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 213,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 203,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 41,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 80,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 42,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 493,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 213,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 71,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 47,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 202,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 41,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 78,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 41,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 485,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 178
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 209,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 69,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 45,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 198,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 61
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 41,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 78,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 35
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 41,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 22
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 470,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 175
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 205,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 68,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 42,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 193,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 72,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 34
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 458,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 174
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 199,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 82
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 67,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 28
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 56,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 42,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 18
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 190,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 60,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 39,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 69,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 33
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 12
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 438,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 171
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 191,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 80
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 54,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 40,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 17
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 182,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 54,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 31,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 65,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 32
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 432,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 171
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 189,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 80
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 62,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 54,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 39,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 17
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 178,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 29,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 65,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 32
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 34,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 430,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 171
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 188,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 80
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 54,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 39,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 17
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 178,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 29,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 64,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 32
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 426,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 170
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 186,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 38,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 177,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 32
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 32,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 423,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 170
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 184,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 60,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 176,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 58,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 63,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 32
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 32,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 20
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 421,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 184,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 60,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 176,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 58,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "Görlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Meißen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "Sächsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 419,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 183,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 175,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 419,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 183,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 175,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 419,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 183,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 175,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 419,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 183,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 175,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 418,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 182,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 52,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 175,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      },
+      {
+        "1_Auspraegung_Code": 14,
+        "1_Auspraegung_Label": "Freistaat Sachsen",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 418,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 169
+      },
+      {
+        "1_Auspraegung_Code": 145,
+        "1_Auspraegung_Label": "Chemnitz, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 182,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 79
+      },
+      {
+        "1_Auspraegung_Code": 14511,
+        "1_Auspraegung_Label": "Chemnitz, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14521,
+        "1_Auspraegung_Label": "Erzgebirgskreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 59,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 27
+      },
+      {
+        "1_Auspraegung_Code": 14522,
+        "1_Auspraegung_Label": "Mittelsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 52,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 21
+      },
+      {
+        "1_Auspraegung_Code": 14523,
+        "1_Auspraegung_Label": "Vogtlandkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 37,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 16
+      },
+      {
+        "1_Auspraegung_Code": 14524,
+        "1_Auspraegung_Label": "Zwickau, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 33,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 146,
+        "1_Auspraegung_Label": "Dresden, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 175,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 59
+      },
+      {
+        "1_Auspraegung_Code": 14612,
+        "1_Auspraegung_Label": "Dresden, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14625,
+        "1_Auspraegung_Label": "Bautzen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 57,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 15
+      },
+      {
+        "1_Auspraegung_Code": 14626,
+        "1_Auspraegung_Label": "G�rlitz, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 53,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 14
+      },
+      {
+        "1_Auspraegung_Code": 14627,
+        "1_Auspraegung_Label": "Mei�en, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 28,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 10
+      },
+      {
+        "1_Auspraegung_Code": 14628,
+        "1_Auspraegung_Label": "S�chsische Schweiz-Osterzgebirge, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 36,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 147,
+        "1_Auspraegung_Label": "Leipzig, NUTS 2-Region",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 61,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 31
+      },
+      {
+        "1_Auspraegung_Code": 14713,
+        "1_Auspraegung_Label": "Leipzig, Stadt",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 1,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 1
+      },
+      {
+        "1_Auspraegung_Code": 14729,
+        "1_Auspraegung_Label": "Leipzig, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 19
+      },
+      {
+        "1_Auspraegung_Code": 14730,
+        "1_Auspraegung_Label": "Nordsachsen, Landkreis",
+        "GEM300__Anzahl_der_Gemeinden__Anzahl": 30,
+        "STD500__darunter_Anzahl_der_Staedte__Anzahl": 11
+      }
+    ]
+  ],
+  "bund": []
+}
