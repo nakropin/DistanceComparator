@@ -6,6 +6,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// HERE Public Transport API
 const API_KEY = process.env.HERE_API_KEY;
 const startPoint = {
   plz: "04177",
