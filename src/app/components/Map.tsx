@@ -21,7 +21,10 @@ export default function Map({ tolerance, onMapReady }: Props) {
     yellowLines: L.LayerGroup;
     greenLines: L.LayerGroup;
   } | null>(null);
-  const center = { lng: 12.33, lat: 51.33 };
+
+,
+    "lng": ,
+  const center = { lng:13.3779264, lat:   51.0098256 };
   const [zoom] = useState(8);
 
   const startPoint = {
