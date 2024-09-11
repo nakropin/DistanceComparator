@@ -3,13 +3,13 @@ import fs from "fs";
 console.log("running");
 
 // Die beiden JSON-Datensätze
-const jsonWithCoordinates = JSON.parse(
+/* const jsonWithCoordinates = JSON.parse(
   fs.readFileSync("src/assets/koordinaten.json", "utf8")
 );
 
 const jsonWithNames = JSON.parse(
   fs.readFileSync("src/assets/gemeinden_data.json", "utf8")
-);
+); */
 
 const jsonWithCarTimes = JSON.parse(
   fs.readFileSync("src/assets/car_durations.json", "utf8")
