@@ -13,6 +13,7 @@ export default function Home() {
   const [tolerance, setTolerance] = useState(30);
   const mapRef = useRef<HTMLDivElement>(null);
   const [isMapReady, setIsMapReady] = useState(false);
+  const [displayLines, setDisplayLines] = useState(true);
 
   const handleToleranceChange = (
     event: React.ChangeEvent<HTMLInputElement>
@@ -49,10 +50,19 @@ export default function Home() {
     setIsMapReady(true);
   }, []);
 
+  function toggleLines() {
+    setDisplayLines(!displayLines);
+    console.log(displayLines);
+  }
+
   return (
     <div>
       <div ref={mapRef} style={{ width: "100%", height: "90vh" }}>
-        <Map tolerance={tolerance} onMapReady={() => setIsMapReady(true)} />
+        <Map
+          tolerance={tolerance}
+          onMapReady={() => setIsMapReady(true)}
+          displayLines={displayLines}
+        />
       </div>
       <div className="w-full h-[10vh] flex flex-row bg-slate-400 justify-center items-center gap-8">
         <label htmlFor="toleranceInput" className="text-white">
@@ -72,6 +82,25 @@ export default function Home() {
         >
           Capture Map
         </button>
+        <button
+          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+          onClick={toggleLines}
+        >
+          Display Lines
+        </button>
+        <h1 className="text-white">Legende:</h1>
+        <div className="flex flex-row text-xs text-white">
+          <ul>
+            <li>Grün = Zug ist mit {tolerance} Minuten Toleranz schneller</li>
+            <li>Gelb = Auto ist mit {tolerance} Minuten Toleranz schneller</li>
+            <li>
+              Rot = Auto ist mit {tolerance * 1.5} Minuten Toleranz schneller
+            </li>
+            <li>
+              Schwarz = Auto ist mindestens doppelt so schnell wie mit dem Zug
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   );

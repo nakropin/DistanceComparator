@@ -3,16 +3,16 @@ import React, { useRef, useEffect, useState } from "react";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 // @ts-ignore
-import { MaptilerLayer } from "@maptiler/leaflet-maptilersdk";
 import final from "@/assets/FINAL.json";
 import sachsenGeoJSON from "@/assets/sachsen_grenzen.json";
 
 type Props = {
   tolerance: number;
   onMapReady: () => void;
+  displayLines: boolean;
 };
 
-export default function Map({ tolerance, onMapReady }: Props) {
+export default function Map({ tolerance, onMapReady, displayLines }: Props) {
   const mapContainer = useRef(null);
   const mapRef = useRef<L.Map | null>(null);
   const layersRef = useRef<{
@@ -20,6 +20,7 @@ export default function Map({ tolerance, onMapReady }: Props) {
     redLines: L.LayerGroup;
     yellowLines: L.LayerGroup;
     greenLines: L.LayerGroup;
+    points: L.LayerGroup;
   } | null>(null);
 
   const center = { lng: 13.3779264, lat: 51.0098256 };
@@ -62,14 +63,15 @@ export default function Map({ tolerance, onMapReady }: Props) {
         redLines: L.layerGroup().addTo(mapRef.current),
         yellowLines: L.layerGroup().addTo(mapRef.current),
         greenLines: L.layerGroup().addTo(mapRef.current),
+        points: L.layerGroup().addTo(mapRef.current),
       };
     }
 
-    // Funktion zum Aktualisieren der Routen
+    // Funktion zum Aktualisieren der Routen und Punkte
     const updateRoutes = () => {
       if (!layersRef.current) return;
 
-      // Entferne alle bestehenden Linien und Marker
+      // Entferne alle bestehenden Linien und Punkte
       Object.values(layersRef.current).forEach((layer) => layer.clearLayers());
 
       final.forEach((item) => {
@@ -105,41 +107,38 @@ export default function Map({ tolerance, onMapReady }: Props) {
         }
 
         if (color) {
-          const line = L.polyline(
-            [
-              [startPoint.lat, startPoint.lng],
-              [item.lat, item.lng],
-            ],
-            { color: color, weight: weight, opacity: opacity }
-          );
+          // Zeichne die Linie nur, wenn displayLines true ist
+          if (displayLines) {
+            const line = L.polyline(
+              [
+                [startPoint.lat, startPoint.lng],
+                [item.lat, item.lng],
+              ],
+              { color: color, weight: weight, opacity: opacity }
+            );
 
-          const layerKey = `${color}Lines` as keyof typeof layersRef.current;
-          line.addTo(layersRef.current![layerKey]);
-
-          if (
-            color === "green" ||
-            color === "yellow" ||
-            color === "red" ||
-            color === "black"
-          ) {
-            const circle = L.circle([item.lat, item.lng], {
-              radius: 100,
-              color: color,
-              fillColor: color,
-              fillOpacity: 0.5,
-              weight: 5,
-            })
-              .bindPopup(item.name + " - " + item.plz)
-              .addTo(layersRef.current![layerKey]);
+            const layerKey = `${color}Lines` as keyof typeof layersRef.current;
+            line.addTo(layersRef.current![layerKey]);
           }
+
+          // Zeichne immer den Punkt, unabhängig von displayLines
+          const circle = L.circle([item.lat, item.lng], {
+            radius: 100,
+            color: color,
+            fillColor: color,
+            fillOpacity: 0.5,
+            weight: 5,
+          })
+            .bindPopup(item.name + " - " + item.plz)
+            .addTo(layersRef.current!.points);
         }
       });
     };
 
-    // Aktualisiere die Routen bei Änderungen der Toleranz
+    // Aktualisiere die Routen bei Änderungen der Toleranz oder displayLines
     updateRoutes();
     mapRef.current.on("load", onMapReady);
-  }, [center.lng, center.lat, zoom, tolerance]); // tolerance zur Abhängigkeitsliste hinzugefügt
+  }, [center.lng, center.lat, zoom, tolerance, displayLines]);
 
   if (typeof window !== "undefined") {
     return (
