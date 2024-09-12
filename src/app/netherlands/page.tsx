@@ -5,7 +5,7 @@ import { useState, useRef, useEffect } from "react";
 import html2canvas from "html2canvas";
 
 // Dynamischer Import der Map-Komponente mit deaktiviertem SSR
-const Map = dynamic(() => import("./components/Map"), {
+const Map = dynamic(() => import("../components/Map_Netherlands"), {
   ssr: false,
 });
 
