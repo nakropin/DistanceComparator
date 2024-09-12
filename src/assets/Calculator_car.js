@@ -12,18 +12,26 @@ const __dirname = path.dirname(__filename);
 const API_KEY = process.env.ORS_API_KEY;
 const BASE_URL = "https://api.openrouteservice.org/v2/matrix";
 
-const startPoint = {
+/* const startPoint = {
   plz: "04177",
   name: "Lindenau",
   lat: 51.3413425,
   lng: 12.3354318,
+};
+ */
+
+const startPoint = {
+  zipcode: "2491",
+  province: "Gemeente Den Haag",
+  latitude: 52.069,
+  longitude: 4.3887,
 };
 
 const jsonPath = path.join(
   __dirname,
   "..",
   "..",
-  "src/assets/gemeinden_koordinaten.json"
+  "src/assets/zipcodes.nl.json"
 );
 console.log("Versuche, die Datei zu lesen von:", jsonPath);
 
@@ -39,9 +47,14 @@ try {
 
 async function calculateTravelTimes(profile, chunk) {
   const locations = [
+    [startPoint.longitude, startPoint.latitude],
+    ...chunk.map((dest) => [Number(dest.longitude), Number(dest.latitude)]),
+  ];
+
+  /*   const locations = [
     [startPoint.lng, startPoint.lat],
     ...chunk.map((dest) => [dest.lng, dest.lat]),
-  ];
+  ]; */
 
   const config = {
     headers: {

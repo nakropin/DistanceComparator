@@ -6,22 +6,19 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// HERE Public Transport API
 const API_KEY = process.env.HERE_API_KEY;
+
 const startPoint = {
-  plz: "04177",
-  name: "Lindenau",
-  lat: 51.3413425,
-  lng: 12.3354318,
+  zipcode: "2491",
+  province: "Gemeente Den Haag",
+  latitude: 52.069,
+  longitude: 4.3887,
 };
 
-// Import gemeinden_koordinaten data
-const gemeinden_koordinaten = JSON.parse(
-  await fs.readFile(path.join(__dirname, "gemeinden_koordinaten.json"), "utf-8")
-);
+const jsonPath = path.join(__dirname, "zipcodes.nl.json");
 
 async function calculatePublicTransportDurations() {
-  const results = [];
+  let gemeinden_koordinaten = JSON.parse(await fs.readFile(jsonPath, "utf-8"));
 
   for (const destination of gemeinden_koordinaten) {
     try {
@@ -30,8 +27,10 @@ async function calculatePublicTransportDurations() {
         {
           params: {
             apiKey: API_KEY,
-            origin: `${startPoint.lat},${startPoint.lng}`,
-            destination: `${destination.lat},${destination.lng}`,
+            origin: `${startPoint.latitude},${startPoint.longitude}`,
+            destination: `${Number(destination.latitude)},${Number(
+              destination.longitude
+            )}`,
             alternatives: 1,
             departureTime: new Date().toISOString(),
           },
@@ -44,42 +43,32 @@ async function calculatePublicTransportDurations() {
         const endTime = new Date(
           route.sections[route.sections.length - 1].arrival.time
         );
-        const durationInMinutes = Math.round((endTime - startTime) / 60000); // Convert milliseconds to minutes
+        const durationInMinutes = Math.round((endTime - startTime) / 60000);
 
-        results.push({
-          name: destination.name,
-          plz: destination.plz,
-          durationByPublicTransport: durationInMinutes,
-        });
+        destination.durationByPublicTransport = durationInMinutes;
 
         console.log(
-          `Calculated duration for ${destination.name}: ${durationInMinutes} minutes`
+          `Calculated duration for ${destination.place}: ${durationInMinutes} minutes`
         );
       } else {
-        console.log(`No route found to ${destination.name}`);
-        results.push({
-          name: destination.name,
-          plz: destination.plz,
-          durationByPublicTransport: null,
-        });
+        console.log(`No route found to ${destination.place}`);
+        destination.durationByPublicTransport = null;
       }
     } catch (error) {
       console.error(
-        `Error calculating route for ${destination.name}:`,
+        `Error calculating route for ${destination.place}:`,
         error.response ? error.response.data : error.message
       );
-      results.push({
-        name: destination.name,
-        plz: destination.plz,
-        durationByPublicTransport: null,
-      });
+      destination.durationByPublicTransport = null;
     }
+
+    // Add a small delay to avoid overwhelming the API
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 
-  // Write results to file
-  const outputPath = path.join(__dirname, "public_transport_durations.json");
-  await fs.writeFile(outputPath, JSON.stringify(results, null, 2));
-  console.log(`Results written to ${outputPath}`);
+  // Write updated data back to the file
+  await fs.writeFile(jsonPath, JSON.stringify(gemeinden_koordinaten, null, 2));
+  console.log(`Results written to ${jsonPath}`);
 }
 
 calculatePublicTransportDurations();
